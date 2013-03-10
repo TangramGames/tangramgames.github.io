@@ -1,0 +1,46 @@
+body {
+	background-color: #f8f8f5;
+	background-image: url('../images/bg.png');
+	background-attachment: fixed;
+	background-position: center bottom;
+	background-repeat: repeat-x;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 16px;
+	color: #20160b;
+}
+
+a {
+	color: #262d49;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #262d49;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#container {
+	width: 700px;
+	position: absolute;
+	left: 50%;
+	margin: 0px;
+	margin-left: -350px;
+}
+
+#banner {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.hline {
+	width: 700px;
+	height: 2px;
+}
+
+.textbox {
+	padding-left: 25px;
+	padding-right: 25px;
+}
