@@ -11,7 +11,9 @@ body {
 #content {
 	font-family: sans-serif;
 	width: 732px;
-	float: left;
+	position: absolute;
+	top: 0px;
+	left: 201px;
 	padding-left: 30px;
 	padding-top: 330px;
 	background-image: url("../images/tangram_banner.png");
@@ -49,7 +51,9 @@ body {
 } 
 #sidebar {
 	width: 200px;
-	float: left;
+	position: absolute;
+	top: 0px;
+	left: 0px;
 	padding-top: 14px;
 	border-right: 1px solid #507677;
 }
