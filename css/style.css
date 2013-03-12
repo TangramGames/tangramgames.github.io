@@ -1,46 +1,85 @@
 body {
-	background-color: #f8f8f5;
-	background-image: url('../images/bg.png');
-	background-attachment: fixed;
-	background-position: center bottom;
-	background-repeat: repeat-x;
-	font-family: verdana, arial, helvetica, sans-serif;
-	font-size: 16px;
-	color: #20160b;
+	background-image: url("../images/sidebar-bg.png");
+	background-position: top left;
+	background-repeat: repeat-y;
+	background-color: #2e2e2e;
+	margin-top: 0px;
+	margin-left: 0px;
+	color: #ffffff;
 }
 
-a {
-	color: #262d49;
-	font-weight: bold;
+#content {
+	font-family: sans-serif;
+	width: 732px;
+	float: left;
+	padding-left: 30px;
+	padding-top: 330px;
+	background-image: url("../images/tangram_banner.png");
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+#content h1 {
+	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
+	font-size: 35px;
+	text-shadow: 1px 1px #1b1b1b;
+	color: #ffffff;
+}
+
+#content h2 {
+	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
+	font-size: 24px;
+	text-shadow: 1px 1px #1b1b1b;
+	color: #809fa2;
+	margin-bottom: -13px;
+}
+
+#content .blog-timestamp {
+	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
+	font-size: 18px;
+	text-shadow: 1px 1px #1b1b1b;
+	color: #8a8a8a;
+	margin-bottom: -5px;
+}
+
+#content .blog-content {
+	width: 620px;
+	text-align: justify;
+	margin-bottom: 30px;
+}
+
+#sidebar {
+	width: 200px;
+	float: left;
+	padding-top: 14px;
+	border-right: 1px solid #507677;
+}
+
+#sidebar li {
+	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
+	font-size: 20px;
+	list-style: none;
+	margin-left: 18px;
+	padding-top: 9px;
+	padding-bottom: 5px;
+}
+
+#sidebar a, a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+#sidebar a:hover {
+	color: #8a8a8a;
 	text-decoration: none;
 }
 
-a:hover {
-	color: #262d49;
-	font-weight: bold;
-	text-decoration: underline;
+#sidebar li:before {
+	content: "• ";
+	color: #2e2e2e;
+	padding-right: 4px;
 }
 
-#container {
-	width: 700px;
-	position: absolute;
-	left: 50%;
-	margin: 0px;
-	margin-left: -350px;
-}
-
-#banner {
-	text-align: center;
-	padding-top: 10px;
-	padding-bottom: 10px;
-}
-
-.hline {
-	width: 700px;
-	height: 2px;
-}
-
-.textbox {
-	padding-left: 25px;
-	padding-right: 25px;
+.side-hline {
+	width: 100px;
+	height: 1px;
 }
