@@ -46,8 +46,7 @@ body {
 	width: 620px;
 	text-align: justify;
 	margin-bottom: 30px;
-}
-
+} 
 #sidebar {
 	width: 200px;
 	float: left;
@@ -70,7 +69,6 @@ body {
 }
 #sidebar a:hover {
 	color: #8a8a8a;
-	text-decoration: none;
 }
 
 #sidebar li:before {
@@ -82,4 +80,20 @@ body {
 .side-hline {
 	width: 100px;
 	height: 1px;
+}
+
+.side-gamethumb {
+	border: 1px solid #507677;
+	margin-top: 14px;
+	margin-bottom: -15px;
+}
+
+.side-gametext {
+	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
+	font-size: 14px;
+	margin-bottom: 3px;
+}
+
+.side-gamethumb:hover {
+	border: 1px solid #809fa2;
 }
