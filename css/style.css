@@ -1,5 +1,5 @@
 body {
-	background-image: url("../images/sidebar-bg.png");
+	background-image: url("/images/sidebar-bg.png");
 	background-position: top left;
 	background-repeat: repeat-y;
 	background-color: #2e2e2e;
@@ -16,7 +16,7 @@ body {
 	left: 201px;
 	padding-left: 30px;
 	padding-top: 330px;
-	background-image: url("../images/tangram_banner.png");
+	background-image: url("/images/tangram_banner.png");
 	background-position: top left;
 	background-repeat: no-repeat;
 }
@@ -28,12 +28,13 @@ body {
 	color: #ffffff;
 }
 
-#content h2 {
+#content h2, h2 a ,h2 a:hover, h2 a:visited {
 	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
 	font-size: 24px;
 	text-shadow: 1px 1px #1b1b1b;
 	color: #809fa2;
 	margin-bottom: -13px;
+	text-decoration: none;
 }
 
 #content .blog-timestamp {
