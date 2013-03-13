@@ -8,7 +8,7 @@ body {
 	color: #ffffff;
 }
 
-#content {
+#container {
 	font-family: sans-serif;
 	width: 732px;
 	position: absolute;
@@ -21,14 +21,14 @@ body {
 	background-repeat: no-repeat;
 }
 
-#content h1 {
+#container h1 {
 	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
 	font-size: 35px;
 	text-shadow: 1px 1px #1b1b1b;
 	color: #ffffff;
 }
 
-#content h2, h2 a ,h2 a:hover, h2 a:visited {
+#container h2, h2 a, h2 a:hover, h2 a:visited {
 	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
 	font-size: 24px;
 	text-shadow: 1px 1px #1b1b1b;
@@ -37,7 +37,16 @@ body {
 	text-decoration: none;
 }
 
-#content .blog-timestamp {
+#container h3 {
+	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
+	font-size: 20px;
+	text-shadow: 1px 1px #1b1b1b;
+	color: #ffffff;
+	margin-bottom: -13px;
+	text-decoration: none;
+}
+
+.blog-timestamp {
 	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
 	font-size: 18px;
 	text-shadow: 1px 1px #1b1b1b;
@@ -45,11 +54,21 @@ body {
 	margin-bottom: -5px;
 }
 
-#content .blog-content {
+.content {
 	width: 620px;
 	text-align: justify;
 	margin-bottom: 30px;
 } 
+
+.content a, .content a:visited {
+	color: #809fa2;
+	text-decoration: none;
+}
+
+.content a:hover {
+	color: #507677;
+}
+
 #sidebar {
 	width: 200px;
 	position: absolute;
