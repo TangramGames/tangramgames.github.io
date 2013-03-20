@@ -1,6 +1,7 @@
 ---
 layout: post
 title: More stuff
+author: Simon
 ---
 This is yet another post.
 

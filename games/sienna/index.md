@@ -8,7 +8,10 @@ images:
   - images/3.png
 ---
 ## About Sienna ##
-**Sienna** is a simple, albeit frustrating, one-button platformer.
+Sienna is a simple, albeit frustrating, one-button platformer.
+The game started as a solo project by Simon by features some artwork by Lukas.
+
+Sienna was never properly finished but is still pretty fun if you like a challenge.
 
 ## Screenshots ##
 {% for image in page.images %}
