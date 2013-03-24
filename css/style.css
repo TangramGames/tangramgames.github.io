@@ -87,18 +87,18 @@ body {
 	padding-bottom: 5px;
 }
 
+#sidebar li:before {
+	content: "• ";
+	color: #2e2e2e;
+	padding-right: 4px;
+}
+
 #sidebar a, a:visited {
 	color: #ffffff;
 	text-decoration: none;
 }
 #sidebar a:hover {
 	color: #8a8a8a;
-}
-
-#sidebar li:before {
-	content: "• ";
-	color: #2e2e2e;
-	padding-right: 4px;
 }
 
 .side-hline {
@@ -132,4 +132,29 @@ body {
 
 .game-thumb:hover {
 	border: 1px solid #809fa2;
+}
+
+.biobox {
+	background-color: #507677;
+	/* background-image: url("/about/portrait_simon.png"); */
+	background-position: 13px 10px;
+	background-repeat: no-repeat;
+	padding: 5px;
+	padding-left: 85px;
+	padding-right: 20px;
+	border-radius: 10px;
+	font-size: 14px;
+	overflow: auto;
+	margin-bottom: 14px;
+}
+
+.biobox li {
+	list-style: none;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: left;
+}
+
+.biobox a, .biobox a:visited, .biobox a:hover {
+	color: #ffffff;
 }
