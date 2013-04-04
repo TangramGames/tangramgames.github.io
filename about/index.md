@@ -28,6 +28,6 @@ From Wikipedia.org:
 > *The tangram is a dissection puzzle consisting of seven flat shapes, called tans, which are put together to form shapes.*
 > *The objective of the puzzle is to form a specific shape (given only an outline or silhouette) using all seven pieces, which may not overlap.*
 
-MOAR STUFF HERE PLOX
+We chose the name Tangram because we liked the symbolism of a game with such a simple mechanic and yet so many possibilities.
 
 Besides that *Tangram* is also an amazing album by artist [Gak Sato](http://www.gaksato.com) that we highly recommend.
