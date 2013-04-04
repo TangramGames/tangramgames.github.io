@@ -10,7 +10,8 @@ Tangram is a Danish independent game development duo founded in 2013.
 		<li> <b>Name:</b> Simon Larsen </li>
 		<li> <b>Does:</b> Programming, audio, design </li>
 		<li> <b>Occupation:</b> Computer science student </li>
-		<li> <b>Favorite games:</b> Dwarf Fortress, We ♥ Katamari, Tokyo Jungle </li>
+		<li> <b>Favorite games:</b> Dwarf Fortress, We ♥ Katamari, Metal Gear Solid, Cave Noire, Tokyo Jungle </li>
+		<li> <b>Tools of the trade:</b> Vim, GIMP, FamiTracker, Inkscape </li>
 	</ul>
 </div>
 
@@ -20,6 +21,7 @@ Tangram is a Danish independent game development duo founded in 2013.
 		<li> <b>Does:</b> Artwork, design </li>
 		<li> <b>Occupation:</b> ?? </li>
 		<li> <b>Favorite games:</b> ?? </li>
+		<li> <b>Tools of the trade:</b> GIMP, Inkscape </li>
 	</ul>
 </div>
 
