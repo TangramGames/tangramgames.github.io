@@ -19,8 +19,8 @@ Tangram is a Danish independent game development duo founded in 2013.
 	<ul>
 		<li> <b>Name:</b> Lukas Hansen </li>
 		<li> <b>Does:</b> Artwork, design </li>
-		<li> <b>Occupation:</b> ?? </li>
-		<li> <b>Favorite games:</b> ?? </li>
+		<li> <b>Occupation:</b> Studying for teacher's degree </li>
+		<li> <b>Favorite games:</b> Monster Hunter Freedom Unite, We ♥ Katamari, Dawn of War </li>
 		<li> <b>Tools of the trade:</b> GIMP, Inkscape </li>
 	</ul>
 </div>
