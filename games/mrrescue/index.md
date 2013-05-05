@@ -11,9 +11,9 @@ images:
   - images/6.png
 ---
 ## About Mr. Rescue ##
-Mr. Rescue is a silly, fast-paced platformer about putting out fire and throwing people out the window.
+Mr. Rescue is an arcade styled 2d action game centered around evacuating civilians from burning buildings.
 
-The game is currently in development, and will be released for free for Windows, Linux and OS X sometime early 2013.
+The game features fast paced fire extinguishing action and lots of throwing people around.
 
 ## Screenshots ##
 <div style="text-align: center">
@@ -26,6 +26,27 @@ The game is currently in development, and will be released for free for Windows,
 
 ## Downloads ##
 
-Mr. Rescue is far from done but we might upload beta versions here when we get closer to release.
+### Windows
 
-If you're comfortable with the [LÖVE](http://love2d.org/) framework feel free to download the latest development version from [GitHub](https://github.com/SimonLarsen/mrrescue) at your own risk.
+* [**32 bit version**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.0-win-x86.zip)
+
+### Linux / Mac OS X
+
+First go get the awesome [LÖVE framework]() here (it only takes a second), then download
+the LÖVE archive below.
+
+* [**LÖVE archive**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.0.love)
+
+### Source code ###
+
+The zlib'ed source code is available on [GitHub](https://github.com/SimonLarsen/mrrescue).
+
+## How to play ##
+
+We highly recommend check out the ingame how-to but here's the basics:
+
+* Your job is to rescue civilians from a burning building.
+* You rescue people by picking them up and throwing them out the window.
+* Equipped with a water gun you must fight your way through flames and fire sprites but remember: your job is to rescue people!
+* When being near fire your suit will accumulate heat. Collect coolants to keep it from overheating.
+* You water tank only has limited capacity. Emptying it will make you water gun overheat so watch your water usage.
