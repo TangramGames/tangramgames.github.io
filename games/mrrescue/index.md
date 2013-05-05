@@ -24,15 +24,21 @@ The game features fast paced fire extinguishing action and lots of throwing peop
 {% endfor %}
 </div>
 
+## Gameplay video ##
+
+<iframe width="620" height="300" src="http://www.youtube.com/embed/5k7ctkHAURw" frameborder="0">
+</iframe>
+
 ## Downloads ##
 
 ### Windows
 
-* [**32 bit version**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.0-win-x86.zip)
+* [**32 bit binary**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.0-win-x86.zip)
+* [**64 bit binary**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.0-win-x64.zip)
 
 ### Linux / Mac OS X
 
-First go get the awesome [LÖVE framework]() here (it only takes a second), then download
+First go get the awesome [LÖVE framework](http://love2d.org/) (it only takes a second), then download
 the LÖVE archive below.
 
 * [**LÖVE archive**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.0.love)

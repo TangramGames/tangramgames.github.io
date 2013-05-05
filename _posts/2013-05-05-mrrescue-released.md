@@ -21,6 +21,6 @@ Check out the trailer below:
 
 ### The site ###
 
-Our new website will primarily server as a devlog where we'll post
+Our new website will primarily serve as a devlog where we'll post
 mockups, screenshots and gameplay videos, but might also occasionally be used for
 other gamedev-related ramblings.
