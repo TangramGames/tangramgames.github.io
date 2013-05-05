@@ -56,3 +56,13 @@ We highly recommend check out the ingame how-to but here's the basics:
 * Equipped with a water gun you must fight your way through flames and fire sprites but remember: your job is to rescue people!
 * When being near fire your suit will accumulate heat. Collect coolants to keep it from overheating.
 * You water tank only has limited capacity. Emptying it will make you water gun overheat so watch your water usage.
+
+## Licence ##
+
+* All assets (graphics, music, text) are licensed under a
+Creative Commons Attribution-NonCommercial 3.0 Unported License.
+See [http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US) for more info.
+
+* All source code for Mr. Rescue with the exception of the modules
+slam, AnAL and TSerial, is licensed under the zlib.
+Check the [LICENSE](https://github.com/SimonLarsen/mrrescue/blob/master/LICENSE) file for more info.
