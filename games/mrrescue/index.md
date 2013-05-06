@@ -13,7 +13,8 @@ images:
 ## About Mr. Rescue ##
 Mr. Rescue is an arcade styled 2d action game centered around evacuating civilians from burning buildings.
 
-The game features fast paced fire extinguishing action and lots of throwing people around.
+The game features fast paced fire extinguishing action and lots of throwing people around
+in pseudo-randomly generated levels.
 
 ## Screenshots ##
 <div style="text-align: center">
