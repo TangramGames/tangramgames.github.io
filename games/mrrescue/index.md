@@ -61,9 +61,9 @@ We highly recommend check out the ingame how-to but here's the basics:
 ## Licence ##
 
 * All assets (graphics, music, text) are licensed under a
-Creative Commons Attribution-NonCommercial 3.0 Unported License.
+Creative Commons BY-NC-SA 3.0 Unported License.
 See [http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US) for more info.
 
 * All source code for Mr. Rescue with the exception of the modules
-slam, AnAL and TSerial, is licensed under the zlib.
+slam, AnAL and TSerial, is licensed under the zlib license.
 Check the [LICENSE](https://github.com/SimonLarsen/mrrescue/blob/master/LICENSE) file for more info.
