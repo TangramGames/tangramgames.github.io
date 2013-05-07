@@ -19,7 +19,7 @@ Check out the trailer below:
 <iframe width="620" height="300" src="http://www.youtube.com/embed/5k7ctkHAURw" frameborder="0">
 </iframe>
 
-Download the game for free [here!](http://tangramgames.dk/games/mrrescue/).
+Download the game for free [here!](http://tangramgames.dk/games/mrrescue/)
 
 ### The site ###
 
