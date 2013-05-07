@@ -34,15 +34,15 @@ in pseudo-randomly generated levels.
 
 ### Windows
 
-* [**32 bit binary**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.0-win-x86.zip)
-* [**64 bit binary**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.0-win-x64.zip)
+* [**32 bit binary**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.0-win-x86.zip) v1.01
+* [**64 bit binary**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.0-win-x64.zip) v1.01
 
 ### Linux / Mac OS X
 
 First go get the awesome [LÖVE framework](http://love2d.org/) (it only takes a second), then download
 the LÖVE archive below.
 
-* [**LÖVE archive**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.0.love)
+* [**LÖVE archive**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.0.love) v1.01
 
 ### Source code ###
 
