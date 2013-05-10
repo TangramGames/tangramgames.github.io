@@ -53,7 +53,7 @@ The zlib'ed source code is available on [GitHub](https://github.com/SimonLarsen/
 
 ## How to play ##
 
-We highly recommend check out the ingame how-to but here's the basics:
+We highly recommend checking out the ingame how-to but here's the basics:
 
 * Your job is to rescue civilians from a burning building.
 * You rescue people by picking them up and throwing them out the window.
