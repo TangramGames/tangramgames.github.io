@@ -16,6 +16,9 @@ Mr. Rescue is an arcade styled 2d action game centered around evacuating civilia
 The game features fast paced fire extinguishing action and lots of throwing people around
 in pseudo-randomly generated levels.
 
+Please note: Mr. Rescue supports generic USB controllers but currently not XBox 360 controllers.
+We would love to add XBox 360 controller support but we need to get our hands on one first.
+
 ## Screenshots ##
 <div style="text-align: center">
 {% for image in page.images %}
