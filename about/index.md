@@ -15,7 +15,7 @@ Tangram is a Danish independent game development duo founded in 2013.
 		<li> <b>Web:</b>
 			  <a href="mailto:simonhffh@gmail.com">email</a>
 			| <a href="https://twitter.com/SimonLarsen">Twitter</a>
-			| <a href="http://simonlarsen.blogspot.dk">Blog</a>
+			| <a href="http://simonlarsen.github.io">Blog</a>
 			| <a href="http://youtube.com/user/SimonLarsen">YouTube</a>
 		</li>
 	</ul>
