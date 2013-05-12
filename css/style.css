@@ -46,6 +46,10 @@ body {
 	text-decoration: none;
 }
 
+.centered-div {
+	text-align: center;
+}
+
 .blog-timestamp {
 	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
 	font-size: 18px;
@@ -163,4 +167,10 @@ body {
 .biobox a:hover { 
 	color: #ffffff;
 	text-decoration: none;
+}
+
+.social-button {
+	margin-top: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
 }
