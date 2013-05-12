@@ -110,6 +110,16 @@ body {
 	height: 1px;
 }
 
+.social-button {
+	margin-top: 14px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.donate-button {
+	margin-top: 9px;
+}
+
 .side-gamethumb {
 	border: 1px solid #507677;
 	margin-top: 14px;
@@ -167,10 +177,4 @@ body {
 .biobox a:hover { 
 	color: #ffffff;
 	text-decoration: none;
-}
-
-.social-button {
-	margin-top: 10px;
-	margin-left: 5px;
-	margin-right: 5px;
 }
