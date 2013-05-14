@@ -51,6 +51,10 @@ the LÖVE archive below.
 
 The zlib'ed source code is available on [GitHub](https://github.com/SimonLarsen/mrrescue).
 
+### Soundtrack ###
+
+You can download the soundtrack on [Bandcamp](http://simonlarsen.bandcamp.com/).
+
 ## How to play ##
 
 We highly recommend checking out the ingame how-to but here's the basics:
