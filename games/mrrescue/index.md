@@ -16,8 +16,7 @@ Mr. Rescue is an arcade styled 2d action game centered around evacuating civilia
 The game features fast paced fire extinguishing action and lots of throwing people around
 in pseudo-randomly generated levels.
 
-Please note: Mr. Rescue supports generic USB controllers but currently not XBox 360 controllers.
-We would love to add XBox 360 controller support but we need to get our hands on one first.
+As of version 1.02 we have added XBox 360 controller support and fullscreen modes.
 
 ## Screenshots ##
 <div style="text-align: center">
@@ -35,17 +34,21 @@ We would love to add XBox 360 controller support but we need to get our hands on
 
 ## Downloads ##
 
-### Windows
+### Windows ###
 
-* [**32 bit binary**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.01-win-x86.zip) v1.01
-* [**64 bit binary**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.01-win-x64.zip) v1.01
+* [**32 bit binary**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.02-win-x86.zip) v1.02
+* [**64 bit binary**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.02-win-x64.zip) v1.02
 
-### Linux / Mac OS X
+### Mac OS X ###
+
+* [**Universal .app**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.02.app.zip) 1.02
+
+### Linux / Mac OS X ###
 
 First go get the awesome [LÖVE framework](http://love2d.org/) (it only takes a second), then download
 the LÖVE archive below.
 
-* [**LÖVE archive**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.01.love) v1.01
+* [**LÖVE archive**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.02-love.zip) v1.02
 
 ### Source code ###
 
