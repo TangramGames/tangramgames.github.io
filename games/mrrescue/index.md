@@ -36,19 +36,19 @@ As of version 1.02 we have added XBox 360 controller support and fullscreen mode
 
 ### Windows ###
 
-* [**32 bit binary**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.02-win-x86.zip) 1.02
-* [**64 bit binary**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.02-win-x64.zip) 1.02
+* [**32 bit binary**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.02b-win-x86.zip) 1.02
+* [**64 bit binary**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.02b-win-x64.zip) 1.02
 
 ### Mac OS X ###
 
-* [**Universal .app**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.02.app.zip) 1.02
+* [**Universal .app**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.02b.app.zip) 1.02
 
 ### Linux / Mac OS X ###
 
 First go get the awesome [LÖVE framework](http://love2d.org/) (it only takes a second), then download
 the LÖVE archive below.
 
-* [**LÖVE archive**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.02-love.zip) 1.02
+* [**LÖVE archive**](https://bitbucket.org/SimonLarsen/tangram-files/downloads/mrrescue-1.02b-love.zip) 1.02
 
 ### Source code ###
 
