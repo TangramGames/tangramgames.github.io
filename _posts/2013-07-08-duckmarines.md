@@ -14,4 +14,6 @@ While doing so we're also working on a small pet project called [DuckMarines](/g
 DuckMarines is simply put a PC remake (or rip-off) of the Dreamcast classic ChuChu Rocket by Sonic Team,
 which was sadly never released for PC or any other home console.
 
-Stay tuned for more updates.
+We're hoping to recreate the magic of the original game's multiplayer while balancing/improving the formula as we find appropriate.
+
+Stay tuned for more updates!
