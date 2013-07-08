@@ -14,11 +14,13 @@ The game started as a solo project by Simon but features some artwork by Lukas.
 Sienna was never properly finished but is still pretty fun if you like a challenge.
 
 ## Screenshots ##
+<div class="centered-div">
 {% for image in page.images %}
 <a href="{{ image }}">
 	<img src="{{ image }}" width="200" class="game-thumb" />
 </a>
 {% endfor %}
+</div>
 
 ## Gameplay video ##
 

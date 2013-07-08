@@ -8,6 +8,10 @@ body {
 	color: #ffffff;
 }
 
+small {
+	color: #aaaaaa;
+}
+
 #container {
 	font-family: sans-serif;
 	width: 732px;
