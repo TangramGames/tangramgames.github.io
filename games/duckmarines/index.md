@@ -26,4 +26,4 @@ DuckMarines will feature entirely new assets (sprites, music etc.) and gameplay 
 DuckMarines is still very early in development but the source code is available on GitHub if
 you want to check it out.
 
-* [Source code](https://github.com/SimonLarsen/mrrescue).
+* [Source code](https://github.com/SimonLarsen/duckmarines)
