@@ -4,6 +4,9 @@ title: "Duck Marines <small>(In development)</small>"
 header: images/header.png
 images:
   - images/teaser.png
+  - images/buttonmash.gif
+  - images/leveleditor.png
+  - images/vacuum.gif
 ---
 ## About Duck Marines ##
 Duck Marines (working title) is a cross-platform free software remake of Sonic Team's ChuChu Rocket for the Sega Dreamcast.
@@ -12,11 +15,11 @@ ChuChu Rocket is an amazing party game but few people own a Dreamcast these days
 
 Duck Marines will feature entirely new assets (sprites, music etc.) and gameplay changes that we find appropriate, while still staying true to the original.
 
-## Screenshot ##
+## Screenshots ##
 <div class="centered-div">
 {% for image in page.images %}
 <a href="{{ image }}">
-	<img src="{{ image }}" width="600" class="game-thumb" />
+	<img src="{{ image }}" width="300" class="game-thumb" />
 </a>
 {% endfor %}
 </div>
