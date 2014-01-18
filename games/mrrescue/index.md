@@ -36,7 +36,8 @@ As of version 1.02 we have added XBox 360 controller support and fullscreen mode
 
 ### Windows / Mac OS X / Linux ###
 
-<iframe src="//itch.io/embed/522?dark=true" width="552" height="167" frameborder="0"></iframe>
+<iframe src="//itch.io/embed/522?dark=true" width="552" height="167" frameborder="0">
+</iframe>
 
 Also available from [GitHub](https://github.com/SimonLarsen/mrrescue/releases).
 
