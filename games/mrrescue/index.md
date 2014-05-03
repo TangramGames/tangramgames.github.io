@@ -45,7 +45,7 @@ Linux users need to first go get the awesome [LÖVE framework](http://love2d.org
 
 ### Source code ###
 
-The zlib'ed source code is available on [GitHub](https://github.com/SimonLarsen/mrrescue).
+* [GitHub](https://github.com/SimonLarsen/mrrescue)
 
 ### Soundtrack ###
 
