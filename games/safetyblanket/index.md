@@ -28,6 +28,11 @@ If the tentacles reach you it's game over!
 {% endfor %}
 </div>
 
+## Trailer / Timelapse ##
+
+<iframe width="620" height="300" src="//www.youtube.com/embed/9ZszqcVc6fU" frameborder="0">
+</iframe>
+
 ## Downloads ##
 
 ### Windows / Mac OS X / Linux ###
