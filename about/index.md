@@ -42,8 +42,9 @@ You can also follow [@SimonLarsen](https://twitter.com/SimonLarsen) on Twitter f
 
 ## Why "Tangram"? ##
 From Wikipedia.org:
-> *The tangram is a dissection puzzle consisting of seven flat shapes, called tans, which are put together to form shapes.*
-> *The objective of the puzzle is to form a specific shape (given only an outline or silhouette) using all seven pieces, which may not overlap.*
+
+> The tangram is a dissection puzzle consisting of seven flat shapes, called tans, which are put together to form shapes.
+> The objective of the puzzle is to form a specific shape (given only an outline or silhouette) using all seven pieces, which may not overlap.
 
 We chose the name Tangram because we liked the symbolism of a game with such a simple mechanic and yet so many possibilities.
 
