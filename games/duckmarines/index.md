@@ -1,6 +1,6 @@
 ---
 layout: game
-title: "Duck Marines <small>(In development)</small>"
+title: "Duck Marines"
 header: images/header.png
 images:
   - images/teaser.png
