@@ -30,6 +30,20 @@ colorful pixel art and more.
 * [Source code](https://github.com/SimonLarsen/duckmarines)
 * [Music](http://telefuturenow.com/linde-stone-soup/) by Phillip Linde
 
+## How to play ##
+
+The goal of the game is to get as many ducks into the submarine of your color. Gray ducks give you one point, gold ducks give multiple points and pink ducks will trigger an event or mini game.
+
+Guide the ducks towards your submarine by placing arrows on the ground. When walking over an arrow ducks will instead walk in the direction the arrow is pointing.
+
+Beware of the blue predators. Predators love to eat ducks and will kill a large number of your ducks if they reach your submarine. Try instead to guide the predators to the other players' submarines
+using your arrows.
+
+### Controls ###
+
+* Controllers: Move cursor with left analog stick. Place arrows with the four face buttons or with the right analog stick.
+* Keyboard: Move cursor with arrow keys and place arrow by holding space and pressing a direction.
+
 ## License ##
 
 All assets with the exception of all background music are copyright (c) 2013 Tangram Games and are licensed under a
