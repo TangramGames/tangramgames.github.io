@@ -4,16 +4,16 @@ title: "Duck Marines <small>(In development)</small>"
 header: images/header.png
 images:
   - images/teaser.png
-  - images/buttonmash.gif
+  - images/duckbeat.png
   - images/leveleditor.png
   - images/vacuum.gif
 ---
 ## About Duck Marines ##
-Duck Marines (working title) is a cross-platform free software remake of Sonic Team's ChuChu Rocket for the Sega Dreamcast.
 
-ChuChu Rocket is an amazing party game but few people own a Dreamcast these days. With Duck Marines we will try to recreate the magic of the original game's multiplayer on the PC.
+Duck Marines is a cross-platform free software PC remake of Sonic Team's [ChuChu Rocket](http://en.wikipedia.org/wiki/ChuChu_Rocket!).
 
-Duck Marines will feature entirely new assets (sprites, music etc.) and gameplay changes that we find appropriate, while still staying true to the original.
+Duck Marines attempts to recreate the magic from the local multiplayer of ChuChu Rocket while adding new elements mini games, a level editor,
+colorful pixel art and more.
 
 ## Screenshots ##
 <div class="centered-div">
@@ -26,7 +26,20 @@ Duck Marines will feature entirely new assets (sprites, music etc.) and gameplay
 
 ## Downloads ##
 
-Duck Marines is still very early in development but the source code is available on GitHub if
-you want to check it out.
-
+* [LÖVE archive](https://github.com/SimonLarsen/duckmarines/releases/download/v1.0-rc1/duckmarines-1.0-rc1.love) [v1.0 RC1]
 * [Source code](https://github.com/SimonLarsen/duckmarines)
+* [Music](http://telefuturenow.com/linde-stone-soup/) by Phillip Linde
+
+## License ##
+
+All assets with the exception of all background music are copyright (c) 2013 Tangram Games and are licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+All background music is copyright (c) 2012 Philip Linde and licensed under a
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+The libraries slam and Tserial are not covered by the Duck Marines license.
+Please the files of equivalent basename for license information.
+All other source code for Duck Marines is licensed under the zlib license.
+
+See [LICENSE.md](https://raw.githubusercontent.com/SimonLarsen/duckmarines/master/LICENSE.md) for more information.
