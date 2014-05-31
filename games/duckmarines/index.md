@@ -26,7 +26,8 @@ colorful pixel art and more.
 
 ## Downloads ##
 
-* [LÖVE archive](https://github.com/SimonLarsen/duckmarines/releases/download/v1.0-rc1/duckmarines-1.0-rc1.love) [v1.0 RC1]
+* [Windows binary](https://github.com/SimonLarsen/duckmarines/releases/download/v1.0-rc2/duckmarines-1.0-rc2-win32.zip) [v1.0 RC2]
+* [LÖVE archive](https://github.com/SimonLarsen/duckmarines/releases/download/v1.0-rc2/duckmarines-1.0-rc2.love) [v1.0 RC2]
 * [Source code](https://github.com/SimonLarsen/duckmarines)
 * [Music](http://telefuturenow.com/linde-stone-soup/) by Phillip Linde
 
