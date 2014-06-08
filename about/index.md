@@ -8,8 +8,6 @@ Tangram is a Danish independent game development duo founded in 2013.
 Do you like our work? Are you having problems with a game? Just want to chat?
 Drop us an email at [&#119;&#101;&#097;&#114;&#101;&#116;&#097;&#110;&#103;&#114;&#097;&#109;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;](mailto:&#119;&#101;&#097;&#114;&#101;&#116;&#097;&#110;&#103;&#114;&#097;&#109;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;).
 
-You can also follow [@SimonLarsen](https://twitter.com/SimonLarsen) on Twitter for development news.
-
 ## Who are Tangram? ##
 <div class="biobox" style="background-image:url('/about/portrait_simon.png');">
 	<ul>
@@ -35,7 +33,8 @@ You can also follow [@SimonLarsen](https://twitter.com/SimonLarsen) on Twitter f
 		<li> <b>Favorite games:</b> Monster Hunter Freedom Unite, We ♥ Katamari, Dawn of War </li>
 		<li> <b>Tools of the trade:</b> GIMP, Inkscape, GraphicsGale </li>
 		<li> <b>Web:</b>
-				<a href="mailto:&#108;&#117;&#107;&#097;&#115;&#101;&#114;&#114;&#105;&#116;&#115;&#111;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">email</a>
+			  <a href="mailto:&#108;&#117;&#107;&#097;&#115;&#101;&#114;&#114;&#105;&#116;&#115;&#111;&#101;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">email</a>
+			| <a href="https://twitter.com/LukasErritsoe">Twitter</a>
 		</li>
 	</ul>
 </div>
