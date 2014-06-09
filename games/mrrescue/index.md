@@ -41,8 +41,6 @@ As of version 1.02 we have added XBox 360 controller support and fullscreen mode
 
 Also available from [GitHub](https://github.com/SimonLarsen/mrrescue/releases).
 
-Linux users need to first go get the awesome [LÖVE framework](http://love2d.org/) (it only takes a second), then download the **mrrescue-1.02b-love.zip** archive.
-
 ### Source code ###
 
 * [GitHub](https://github.com/SimonLarsen/mrrescue)

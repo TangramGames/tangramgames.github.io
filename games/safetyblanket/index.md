@@ -40,7 +40,8 @@ If the tentacles reach you it's game over!
 <iframe src="//itch.io/embed/7913?dark=true" width="552" height="167" frameborder="0">
 </iframe>
 
-* [Ludum Dare submission page](http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&amp;uid=1980)
+Also available from [GitHub](https://github.com/SimonLarsen/safetyblanket/releases)
+and [Ludum Dare submission page](http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&amp;uid=1980).
 
 ### Source code ###
 

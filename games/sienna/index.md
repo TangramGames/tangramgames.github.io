@@ -29,10 +29,12 @@ Sienna was never properly finished but is still pretty fun if you like a challen
 
 ## Downloads ##
 
-* [Windows binary](https://github.com/SimonLarsen/sienna/releases/download/v1.0b/sienna-1.0b-win32.zip)
-* [Mac OS X](https://github.com/SimonLarsen/sienna/releases/download/v1.0b/sienna-1.0b.osx.zip)
-* [Linux](https://github.com/SimonLarsen/sienna/releases/download/v1.0b/sienna-1.0b.love) <small>(Requires [LÖVE](http://love2d.org))</small>
-* [Source code](http://github.com/SimonLarsen/sienna) <small>(ZLIB licensed)</small>
+### Windows / Mac OS X / Linux ###
+
+<iframe src="//itch.io/embed/8483?dark=true" width="552" height="167" frameborder="0">
+</iframe>
+
+Also available from [GitHub](https://github.com/SimonLarsen/sienna/releases).
 
 ## How to play ##
 
