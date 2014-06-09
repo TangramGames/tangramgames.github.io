@@ -29,9 +29,10 @@ Sienna was never properly finished but is still pretty fun if you like a challen
 
 ## Downloads ##
 
-* [Windows binary](https://github.com/downloads/SimonLarsen/sienna/sienna-win-x86.zip) \[Win x86\]
-* [LÖVE package](https://github.com/downloads/SimonLarsen/sienna/sienna.love) \[Win/Linux/OS X\] (requires [LÖVE](http://love2d.org/))
-* [Source code](http://github.com/SimonLarsen/sienna) \[GitHub\] (ZLIB licensed)
+* [Windows binary](https://github.com/SimonLarsen/sienna/releases/download/v1.0b/sienna-1.0b-win32.zip)
+* [Mac OS X](https://github.com/SimonLarsen/sienna/releases/download/v1.0b/sienna-1.0b.osx.zip)
+* [Linux](https://github.com/SimonLarsen/sienna/releases/download/v1.0b/sienna-1.0b.love) <small>(Requires [LÖVE](http://love2d.org))</small>
+* [Source code](http://github.com/SimonLarsen/sienna) <small>(ZLIB licensed)</small>
 
 ## How to play ##
 
