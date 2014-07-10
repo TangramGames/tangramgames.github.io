@@ -29,7 +29,7 @@ As of version 1.02 we have added XBox 360 controller support and fullscreen mode
 
 ## Gameplay video ##
 
-<iframe width="620" height="300" src="http://www.youtube.com/embed/5k7ctkHAURw" frameborder="0">
+<iframe width="620" height="300" src="http://www.youtube.com/embed/5k7ctkHAURw" frameborder="0" allowfullscreen>
 </iframe>
 
 ## Downloads ##

@@ -16,6 +16,7 @@ Duck Marines attempts to recreate the magic from the local multiplayer of ChuChu
 colorful pixel art and more.
 
 ## Screenshots ##
+
 <div class="centered-div">
 {% for image in page.images %}
 <a href="{{ image }}">
@@ -23,6 +24,11 @@ colorful pixel art and more.
 </a>
 {% endfor %}
 </div>
+
+## Trailer ##
+
+<iframe width="620" height="315" src="//www.youtube.com/embed/SAz0BsTSXy4" frameborder="0" allowfullscreen>
+</iframe>
 
 ## Downloads ##
 

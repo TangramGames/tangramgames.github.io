@@ -16,7 +16,7 @@ and while it is not for everybody, we're still very pleased with the result.
 
 Check out the trailer below:
 
-<iframe width="620" height="300" src="http://www.youtube.com/embed/5k7ctkHAURw" frameborder="0">
+<iframe width="620" height="300" src="http://www.youtube.com/embed/5k7ctkHAURw" frameborder="0" allowfullscreen>
 </iframe>
 
 Download the game for free [here!](http://tangramgames.dk/games/mrrescue/)

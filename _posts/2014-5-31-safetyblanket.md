@@ -11,7 +11,7 @@ for something a bit quirkier. Inspired by our own childhood fears we ended up ma
 which you drag a blanket around trying to protect the player from terrible creatures of the night.
 
 <div class="centered-div">
-	<iframe width="500" height="300" src="//www.youtube.com/embed/9ZszqcVc6fU" frameborder="0">
+	<iframe width="500" height="300" src="//www.youtube.com/embed/9ZszqcVc6fU" frameborder="0" allowfullscreen>
 	</iframe>
 </div>
 

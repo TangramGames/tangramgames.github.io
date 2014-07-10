@@ -24,7 +24,7 @@ Sienna was never properly finished but is still pretty fun if you like a challen
 
 ## Gameplay video ##
 
-<iframe width="620" height="300" src="http://www.youtube.com/embed/EZF071lxkwM" frameborder="0">
+<iframe width="620" height="300" src="http://www.youtube.com/embed/EZF071lxkwM" frameborder="0" allowfullscreen>
 </iframe>
 
 ## Downloads ##
