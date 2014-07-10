@@ -26,10 +26,14 @@ colorful pixel art and more.
 
 ## Downloads ##
 
-* [Windows binary](https://github.com/SimonLarsen/duckmarines/releases/download/v1.0-rc2/duckmarines-1.0-rc2-win32.zip) [v1.0 RC2]
-* [LÖVE archive](https://github.com/SimonLarsen/duckmarines/releases/download/v1.0-rc2/duckmarines-1.0-rc2.love) [v1.0 RC2]
-* [Source code](https://github.com/SimonLarsen/duckmarines)
-* [Music](http://telefuturenow.com/linde-stone-soup/) by Phillip Linde
+<iframe src="//itch.io/embed/9383?dark=true" width="552" height="167" frameborder="0">
+</iframe>
+
+Also available from [GitHub](https://github.com/SimonLarsen/duckmarines/releases).
+
+### Source code ###
+
+* [GitHub](https://github.com/SimonLarsen/duckmarines)
 
 ## How to play ##
 
@@ -44,6 +48,7 @@ using your arrows.
 
 * Controllers: Move cursor with left analog stick. Place arrows with the four face buttons or with the right analog stick.
 * Keyboard: Move cursor with arrow keys and place arrow by holding space and pressing a direction.
+* Mouse: Move cursor with mouse. Click and drag in a direction to place arrow.
 
 ## License ##
 
