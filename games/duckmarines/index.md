@@ -12,7 +12,7 @@ images:
 
 Duck Marines is a cross-platform free software PC remake of Sonic Team's [ChuChu Rocket](http://en.wikipedia.org/wiki/ChuChu_Rocket!).
 
-Duck Marines attempts to recreate the magic from the local multiplayer of ChuChu Rocket while adding new elements mini games, a level editor,
+Duck Marines attempts to recreate the magic from the local multiplayer of ChuChu Rocket while adding new elements like mini games, a level editor,
 colorful pixel art and more.
 
 ## Screenshots ##
