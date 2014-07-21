@@ -59,7 +59,7 @@ using your arrows.
 ## License ##
 
 All assets with the exception of all background music are copyright (c) 2013 Tangram Games and are licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 All background music is copyright (c) 2012 Philip Linde and licensed under a
 [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license](http://creativecommons.org/licenses/by-nc-nd/4.0/).
