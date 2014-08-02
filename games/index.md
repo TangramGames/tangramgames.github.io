@@ -2,10 +2,24 @@
 layout: page
 title: Games
 ---
-## DuckMarines <small>(In development)</small> ##
+## Proximity Core <small>(In development)</small> ##
+<div class="centered-div">
+	<a href="/games/proximitycore">
+		<img src="proximitycore/images/header.png" alt="Proximity Core" class="game-thumb" />
+	</a>
+</div>
+
+## Safety Blanket ##
+<div class="centered-div">
+	<a href="/games/safetyblanket">
+		<img src="safetyblanket/images/header.png" alt="Safety Blanket" class="game-thumb" />
+	</a>
+</div>
+
+## Duck Marines ##
 <div class="centered-div">
 	<a href="/games/duckmarines">
-		<img src="duckmarines/images/header.png" alt="DuckMarines" class="game-thumb" />
+		<img src="duckmarines/images/header.png" alt="Duck Marines" class="game-thumb" />
 	</a>
 </div>
 
