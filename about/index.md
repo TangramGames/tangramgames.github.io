@@ -9,7 +9,7 @@ Do you like our work? Are you having problems with a game? Just want to chat?
 Drop us an email at [&#119;&#101;&#097;&#114;&#101;&#116;&#097;&#110;&#103;&#114;&#097;&#109;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;](mailto:&#119;&#101;&#097;&#114;&#101;&#116;&#097;&#110;&#103;&#114;&#097;&#109;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;).
 
 ## Who are Tangram? ##
-<div class="biobox" style="background-image:url('/about/portrait_simon.png');">
+<div class="box simonbio">
 	<ul>
 		<li> <b>Name:</b> Simon Larsen </li>
 		<li> <b>Does:</b> Programming, audio, design </li>
@@ -25,7 +25,7 @@ Drop us an email at [&#119;&#101;&#097;&#114;&#101;&#116;&#097;&#110;&#103;&#114
 	</ul>
 </div>
 
-<div class="biobox" style="background-image:url('/about/portrait_lukas.png');">
+<div class="box lukasbio">
 	<ul>
 		<li> <b>Name:</b> Lukas Hansen </li>
 		<li> <b>Does:</b> Artwork, design </li>

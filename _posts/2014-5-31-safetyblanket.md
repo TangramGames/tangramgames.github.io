@@ -10,7 +10,7 @@ We wanted to steer clear of the obvious ideas like mining or something under wat
 for something a bit quirkier. Inspired by our own childhood fears we ended up making a game in
 which you drag a blanket around trying to protect the player from terrible creatures of the night.
 
-<div class="centered-div">
+<div class="centered">
 	<iframe width="500" height="300" src="//www.youtube.com/embed/9ZszqcVc6fU" frameborder="0" allowfullscreen>
 	</iframe>
 </div>
@@ -20,7 +20,7 @@ and the amount of polish we were able to put into it.
 We ended up placing first in mood, first in innovation and fifth overall which we are very
 satisfied with considering it is our first time participating.
 
-<div class="centered-div">
+<div class="centered">
 	<img src="/images/ld29results.png">
 </div>
 

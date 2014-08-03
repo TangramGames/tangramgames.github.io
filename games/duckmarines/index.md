@@ -17,7 +17,7 @@ colorful pixel art and more.
 
 ## Screenshots ##
 
-<div class="centered-div">
+<div class="centered">
 {% for image in page.images %}
 <a href="{{ image }}">
 	<img src="{{ image }}" width="300" class="game-thumb" />

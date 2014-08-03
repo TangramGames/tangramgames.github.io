@@ -22,7 +22,7 @@ If the tentacles reach you it's game over!
 
 ## Screenshots ##
 
-<div class="centered-div">
+<div class="centered">
 {% for image in page.images %}
 <a href="{{ image }}">
 	<img src="{{ image }}" width="200" class="game-thumb" />

@@ -19,7 +19,7 @@ a catchy soundtrack and lots of throwing people around in pseudo-randomly genera
 As of version 1.02 we have added XBox 360 controller support and fullscreen modes.
 
 ## Screenshots ##
-<div class="centered-div">
+<div class="centered">
 {% for image in page.images %}
 <a href="{{ image }}">
 	<img src="{{ image }}" width="200" class="game-thumb" />

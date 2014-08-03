@@ -9,11 +9,11 @@ Returning from the dead (less so if you're subscribed to Simon's twitter) we bri
 
 We participated in this years [#GBJAM](http://gbjam.net), creating the pseudo rogue/Sokoban-like-like "Super Catacombs". A few months prior we had in fact already started development of a roleplaying game for the Game Boy, but we halted that project as it was far too ambitious as a first(ish) time endeavour of GB development. #GBJAM then seemed like the obvious opportunity to force ourselves into keeping a realistic scope.
 
-<div class="centered-div" style="margin-top:10px;">
+<div class="centered">
 	<a href="/images/geno_title.gif">
 		<img alt="geno:system title" class="game-thumb" src="/images/geno_title.gif" width="160">
 	</a>
-	<img src="/images/tangram_sitting.png" style="margin:24px;">
+	<img src="/images/tangram_sitting.png">
 	<a href="/images/geno_mockup.png">
 		<img alt="geno:system character mockups" class="game-thumb" src="/images/geno_mockup.png" width="160">
 	</a>
@@ -22,11 +22,11 @@ We participated in this years [#GBJAM](http://gbjam.net), creating the pseudo ro
 
 Super Catacombs quickly proceeded to get much too ambitious for us to create in the 10 days that the Jam lasted. Instead we opted to make a compromised prototype showing of some of the ideas and gameplay elements that will be the focus of the finished product.
 
-<div class="centered-div" style="margin-top:10px;">
+<div class="centered">
 	<a href="/images/supercatacombs_idle.gif">
 		<img alt="Super Catacombs idle animations" class="game-thumb" src="/images/supercatacombs_idle.gif" width="160">
 	</a>
-	<img src="/images/tangram_sitting.png" style="margin:24px;">
+	<img src="/images/tangram_sitting.png">
 	<a href="/images/supercatacombs_title.png">
 		<img alt="Super Catacombs title screen" class="game-thumb" src="/images/supercatacombs_title.png" width="160">
 	</a>
@@ -45,7 +45,7 @@ Things have slowly been coming together during the last couple of months. The ba
 
 Most recently we've added a second mini-game (the design and artwork for a third one has been completed too), revamped the settings menu, fixed a lot of controller issues and a lot of behind the scenes stuff only Simon would know about.
 
-<div class="centered-div" style="margin-top:10px;">
+<div class="centered">
 	<a href="/images/duckmarines_escape.gif">
 		<img alt="Escape mini game" class="game-thumb" src="/images/duckmarines_escape.gif" width="500">
 	</a>

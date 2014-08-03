@@ -12,8 +12,10 @@ images:
 ---
 ## About Super Catacombs ##
 
-*Note: All development of Super Catacombs has been halted and will most likely not be resumed at a later point.
-We has some design issues with the game that we couldn't fix so we decided to focus on other projects.*
+<div class="box">
+	<p>Note: All development of Super Catacombs has been halted and will most likely not be resumed at a later point.
+	We has some design issues with the game that we couldn't fix so we decided to focus on other projects.</p>
+</div>
 
 Super Catacombs is a very minimalistic dungeon crawler/puzzle game for the Nintendo Game Boy.
 Your goal is to get to the stairs in each level without being killed by the monsters roaming the catacombs.
@@ -23,7 +25,7 @@ In its current state Super Catacombs is only a proof of concept, still missing i
 menus, overworld map, animations and proper levels. We hope to continue working on it once we're done with Duck Marines.
 
 ## Screenshots ##
-<div class="centered-div">
+<div class="centered">
 {% for image in page.images %}
 <a href="{{ image }}">
 	<img src="{{ image }}" width="200" class="game-thumb" />

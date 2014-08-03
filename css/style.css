@@ -50,7 +50,7 @@ small {
 	text-decoration: none;
 }
 
-.centered-div {
+div .centered {
 	text-align: center;
 }
 
@@ -59,7 +59,6 @@ small {
 	font-size: 18px;
 	text-shadow: 0px 1px #1b1b1b;
 	color: #8a8a8a;
-	margin-bottom: -5px;
 }
 
 .content {
@@ -120,10 +119,6 @@ small {
 	margin-right: 5px;
 }
 
-.donate-button {
-	margin-top: 9px;
-}
-
 .side-gamethumb {
 	border: 1px solid #507677;
 	margin-top: 14px;
@@ -152,13 +147,11 @@ small {
 	border: 1px solid #809fa2;
 }
 
-.biobox {
+.box {
 	background-color: #507677;
 	background-position: 13px 10px;
 	background-repeat: no-repeat;
-	padding: 5px;
-	padding-left: 85px;
-	padding-right: 20px;
+	padding: 5px 20px 5px 20px;
 	border-radius: 10px;
 	font-size: 14px;
 	text-shadow: 0px 1px #1b1b1b;
@@ -166,19 +159,29 @@ small {
 	margin-bottom: 14px;
 }
 
-.biobox li {
+.box li {
 	list-style: none;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	text-align: left;
 }
 
-.biobox a, .biobox a:visited {
+.box a, .box a:visited {
 	color: #ffffff;
 	text-decoration: underline;
 }
 
-.biobox a:hover { 
+.box a:hover { 
 	color: #ffffff;
 	text-decoration: none;
+}
+
+.simonbio {
+	background-image: url('/about/portrait_simon.png');
+	padding-left: 85px;
+}
+
+.lukasbio {
+	background-image: url('/about/portrait_lukas.png');
+	padding-left: 85px;
 }
