@@ -1,6 +1,6 @@
 ---
 layout: game
-title: "Super Catacombs <small>(In development)</small>"
+title: "Super Catacombs <small>(Dead)</small>"
 header: images/header.png
 images:
   - images/1.png
