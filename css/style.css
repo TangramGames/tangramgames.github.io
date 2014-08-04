@@ -54,16 +54,20 @@ nav a:hover {
 }
 
 .twitterbox {
-	width: 70%;
-	margin-left: 15%;
+	width: 74%;
+	margin-left: 13%;
 	font-size: 13px;
+	text-shadow: 0px 1px #1b1b1b;
 	border-radius: 5px;
 	background-color: #507677;
-	text-shadow: 0px 1px #1b1b1b;
 }
 
 .twitterbox ul {
-	padding: 8px 8px 8px 20px;
+	padding: 8px 8px 8px 32px;
+	margin-left: 14px;
+	background-image: url('/images/twitterbird.png');
+	background-repeat: no-repeat;
+	background-position: left center;
 }
 
 .twitterbox li {
