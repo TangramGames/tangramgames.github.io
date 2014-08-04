@@ -14,7 +14,7 @@ images:
 
 <div class="box">
 	<p>Note: All development of Super Catacombs has been halted and will most likely not be resumed at a later point.
-	We has some design issues with the game that we couldn't fix so we decided to focus on other projects.</p>
+	We had some design issues with the game that we couldn't fix so we decided to focus on other projects instead.</p>
 </div>
 
 Super Catacombs is a very minimalistic dungeon crawler/puzzle game for the Nintendo Game Boy.
