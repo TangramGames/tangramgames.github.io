@@ -20,7 +20,7 @@ colorful pixel art and more.
 <div class="centered">
 {% for image in page.images %}
 <a href="{{ image }}">
-	<img src="{{ image }}" width="300" class="game-thumb" />
+	<img src="{{ image }}" width="300" class="thumbnail" />
 </a>
 {% endfor %}
 </div>

@@ -1,4 +1,5 @@
 body {
+	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
 	background-image: url("/images/sidebar-bg.png");
 	background-position: top left;
 	background-repeat: repeat-y;
@@ -11,6 +12,94 @@ body {
 small {
 	color: #aaaaaa;
 }
+
+/*
+ * Sidebar
+ */
+
+#sidebar {
+	width: 200px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	padding-top: 14px;
+	border-right: 1px solid #507677;
+}
+
+nav li {
+	font-size: 20px;
+	list-style: none;
+	margin-left: 18px;
+	padding-top: 9px;
+	padding-bottom: 5px;
+}
+
+nav li:before {
+	content: "• ";
+	color: #2e2e2e;
+	padding-right: 4px;
+}
+
+nav a, a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+nav a:hover {
+	color: #8a8a8a;
+}
+
+.side-hline {
+	width: 100px;
+	height: 1px;
+}
+
+.twitterbox {
+	width: 70%;
+	margin-left: 15%;
+	font-size: 13px;
+	border-radius: 5px;
+	background-color: #507677;
+	text-shadow: 0px 1px #1b1b1b;
+}
+
+.twitterbox ul {
+	padding: 8px 8px 8px 20px;
+}
+
+.twitterbox li {
+	list-style: none;
+	text-align: left;
+	margin: 6px 0px 6px 0px;
+}
+
+.twitterbox a, a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.twitterbox a:hover {
+	color: #aaaaaa;
+	text-decoration: none;
+}
+
+#sidebar .thumbnail {
+	border: 1px solid #507677;
+	margin-top: 14px;
+	margin-bottom: -15px;
+}
+
+#sidebar .thumbnail:hover {
+	border: 1px solid #809fa2;
+}
+
+.side-gametext {
+	font-size: 14px;
+	margin-bottom: 3px;
+}
+
+/*
+ * Content
+ */
 
 #container {
 	font-family: sans-serif;
@@ -26,14 +115,12 @@ small {
 }
 
 #container h1 {
-	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
 	font-size: 35px;
 	text-shadow: 0px 1px #1b1b1b;
 	color: #ffffff;
 }
 
 #container h2, h2 a, h2 a:hover, h2 a:visited {
-	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
 	font-size: 24px;
 	text-shadow: 0px 1px #1b1b1b;
 	color: #809fa2;
@@ -42,7 +129,6 @@ small {
 }
 
 #container h3 {
-	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
 	font-size: 20px;
 	text-shadow: 0px 1px #1b1b1b;
 	color: #ffffff;
@@ -55,7 +141,6 @@ div .centered {
 }
 
 .blog-timestamp {
-	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
 	font-size: 18px;
 	text-shadow: 0px 1px #1b1b1b;
 	color: #8a8a8a;
@@ -76,74 +161,11 @@ div .centered {
 	color: #507677;
 }
 
-#sidebar {
-	width: 200px;
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	padding-top: 14px;
-	border-right: 1px solid #507677;
-}
-
-#sidebar li {
-	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
-	font-size: 20px;
-	list-style: none;
-	margin-left: 18px;
-	padding-top: 9px;
-	padding-bottom: 5px;
-}
-
-#sidebar li:before {
-	content: "• ";
-	color: #2e2e2e;
-	padding-right: 4px;
-}
-
-#sidebar a, a:visited {
-	color: #ffffff;
-	text-decoration: none;
-}
-#sidebar a:hover {
-	color: #8a8a8a;
-}
-
-.side-hline {
-	width: 100px;
-	height: 1px;
-}
-
-.social-button {
-	margin-top: 14px;
-	margin-left: 5px;
-	margin-right: 5px;
-}
-
-.side-gamethumb {
-	border: 1px solid #507677;
-	margin-top: 14px;
-	margin-bottom: -15px;
-}
-
-.side-gamethumb:hover {
-	border: 1px solid #809fa2;
-}
-
-.side-gametext {
-	font-family: "Droid Sans", Helvetica, Tahoma, sans-serif;
-	font-size: 14px;
-	margin-bottom: 3px;
-}
-
-.game-header {
+.content .thumbnail {
 	border: 1px solid #507677;
 }
 
-.game-thumb {
-	border: 1px solid #507677;
-}
-
-.game-thumb:hover {
+.content .thumbnail:hover {
 	border: 1px solid #809fa2;
 }
 
@@ -175,6 +197,10 @@ div .centered {
 	color: #ffffff;
 	text-decoration: none;
 }
+
+/*
+ * About page
+ */
 
 .simonbio {
 	background-image: url('/about/portrait_simon.png');

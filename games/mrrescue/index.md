@@ -22,7 +22,7 @@ As of version 1.02 we have added XBox 360 controller support and fullscreen mode
 <div class="centered">
 {% for image in page.images %}
 <a href="{{ image }}">
-	<img src="{{ image }}" width="200" class="game-thumb" />
+	<img src="{{ image }}" width="200" class="thumbnail" />
 </a>
 {% endfor %}
 </div>

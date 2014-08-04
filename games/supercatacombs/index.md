@@ -28,7 +28,7 @@ menus, overworld map, animations and proper levels. We hope to continue working 
 <div class="centered">
 {% for image in page.images %}
 <a href="{{ image }}">
-	<img src="{{ image }}" width="200" class="game-thumb" />
+	<img src="{{ image }}" width="200" class="thumbnail" />
 </a>
 {% endfor %}
 </div>
