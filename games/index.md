@@ -2,6 +2,20 @@
 layout: page
 title: Games
 ---
+## Dream Witch Erika <small>(In development)</small> ##
+<div class="centered">
+	<a href="/games/dreamwitcherika">
+		<img src="dreamwitcherika/images/header.png" alt="Dream Witch Erika" class="thumbnail" />
+	</a>
+</div>
+
+## Tobu Tobu Girl <small>(In development)</small> ##
+<div class="centered">
+	<a href="/games/tobutobugirl">
+		<img src="tobutobugirl/images/header.png" alt="Tobu Tobu Girl" class="thumbnail" />
+	</a>
+</div>
+
 ## Proximity Core <small>(In development)</small> ##
 <div class="centered">
 	<a href="/games/proximitycore">
