@@ -2,6 +2,13 @@
 layout: page
 title: Games
 ---
+## 90 Second Portraits ##
+<div class="centered">
+	<a href="/games/90secondportraits">
+		<img src="90secondportraits/images/header.png" alt="90 Second Portraits" class="thumbnail" />
+	</a>
+</div>
+
 ## Dream Witch Erika <small>(In development)</small> ##
 <div class="centered">
 	<a href="/games/dreamwitcherika">
@@ -48,5 +55,12 @@ title: Games
 <div class="centered">
 	<a href="/games/sienna">
 		<img src="sienna/images/header.png" alt="Mr. Rescue" class="thumbnail" />
+	</a>
+</div>
+
+## Sienna <small>(Dead)</small> ##
+<div class="centered">
+	<a href="/games/supercatacombs">
+		<img src="supercatacombs/images/header.png" alt="Super Catacombs" class="thumbnail" />
 	</a>
 </div>
