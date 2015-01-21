@@ -45,10 +45,6 @@ Also available from [GitHub](https://github.com/SimonLarsen/mrrescue/releases).
 
 * [GitHub](https://github.com/SimonLarsen/mrrescue)
 
-### Soundtrack ###
-
-You can download the soundtrack on [Bandcamp](http://simonlarsen.bandcamp.com/).
-
 ## How to play ##
 
 We highly recommend checking out the ingame how-to but here's the basics:
