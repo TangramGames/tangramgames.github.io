@@ -6,7 +6,7 @@ author: Simon
 ### The Free Bundle ###
 <div class="centered postheader">
 	<a href="http://www.thefreebundle.com/">
-		<img src="/images/freebundle.png" alt="The Free Bundle 7" class="game-thumb" />
+		<img src="/images/freebundle.png" alt="The Free Bundle 7" class="thumbnail" />
 	</a>
 </div>
 The Free Bundle is an awesome bundle showcasing free indie games.

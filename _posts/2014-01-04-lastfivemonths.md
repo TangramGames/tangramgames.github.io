@@ -11,11 +11,10 @@ We participated in this years [#GBJAM](http://gbjam.net), creating the pseudo ro
 
 <div class="centered">
 	<a href="/images/geno_title.gif">
-		<img alt="geno:system title" class="game-thumb" src="/images/geno_title.gif" width="160">
+		<img alt="geno:system title" class="thumbnail" src="/images/geno_title.gif" width="160">
 	</a>
-	<img src="/images/tangram_sitting.png">
 	<a href="/images/geno_mockup.png">
-		<img alt="geno:system character mockups" class="game-thumb" src="/images/geno_mockup.png" width="160">
+		<img alt="geno:system character mockups" class="thumbnail" src="/images/geno_mockup.png" width="160">
 	</a>
 	<p>geno:system mockups</p>
 </div>
@@ -24,11 +23,10 @@ Super Catacombs quickly proceeded to get much too ambitious for us to create in 
 
 <div class="centered">
 	<a href="/images/supercatacombs_idle.gif">
-		<img alt="Super Catacombs idle animations" class="game-thumb" src="/images/supercatacombs_idle.gif" width="160">
+		<img alt="Super Catacombs idle animations" class="thumbnail" src="/images/supercatacombs_idle.gif" width="160">
 	</a>
-	<img src="/images/tangram_sitting.png">
 	<a href="/images/supercatacombs_title.png">
-		<img alt="Super Catacombs title screen" class="game-thumb" src="/images/supercatacombs_title.png" width="160">
+		<img alt="Super Catacombs title screen" class="thumbnail" src="/images/supercatacombs_title.png" width="160">
 	</a>
 	<p>Super Catacombs title screen and ingame gif</p>
 </div>
@@ -47,7 +45,7 @@ Most recently we've added a second mini-game (the design and artwork for a third
 
 <div class="centered">
 	<a href="/images/duckmarines_escape.gif">
-		<img alt="Escape mini game" class="game-thumb" src="/images/duckmarines_escape.gif" width="500">
+		<img alt="Escape mini game" class="thumbnail" src="/images/duckmarines_escape.gif" width="500">
 	</a>
 </div>
 

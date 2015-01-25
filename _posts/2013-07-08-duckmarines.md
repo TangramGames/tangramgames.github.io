@@ -5,7 +5,7 @@ author: Simon
 ---
 <div class="centered">
 	<a href="/images/duckmarinesteaser.png">
-		<img src="/images/duckmarinesteaser.png" width="500" alt="Duck Marines teaser" class="game-thumb" />
+		<img src="/images/duckmarinesteaser.png" width="500" alt="Duck Marines teaser" class="thumbnail">
 	</a>
 </div>
 
