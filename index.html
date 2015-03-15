@@ -2,10 +2,14 @@
 layout: default
 title: Blog
 ---
-{% for post in site.posts %}
+{% for post in site.posts limit:5 %}
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 <p class="blog-timestamp">Posted by {{ post.author }} on {{ post.date | date_to_string }}</p>
 <div class="content">
 {{ post.content }}
 </div>
 {% endfor %}
+
+<div class="content">
+	<a href="/posts"><h3>Show all blog posts</h3></a>
+</div>
