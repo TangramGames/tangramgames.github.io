@@ -2,20 +2,6 @@
 layout: page
 title: Games
 ---
-## 90 Second Portraits ##
-<div class="centered">
-	<a href="/games/90secondportraits">
-		<img src="90secondportraits/images/header.png" alt="90 Second Portraits" class="thumbnail" />
-	</a>
-</div>
-
-## Dream Witch Erika <small>(In development)</small> ##
-<div class="centered">
-	<a href="/games/dreamwitcherika">
-		<img src="dreamwitcherika/images/header.png" alt="Dream Witch Erika" class="thumbnail" />
-	</a>
-</div>
-
 ## Tobu Tobu Girl <small>(In development)</small> ##
 <div class="centered">
 	<a href="/games/tobutobugirl">
@@ -23,10 +9,17 @@ title: Games
 	</a>
 </div>
 
-## Proximity Core <small>(In development)</small> ##
+## 90 Second Portraits ##
 <div class="centered">
-	<a href="/games/proximitycore">
-		<img src="proximitycore/images/header.png" alt="Proximity Core" class="thumbnail" />
+	<a href="/games/90secondportraits">
+		<img src="90secondportraits/images/header.png" alt="90 Second Portraits" class="thumbnail" />
+	</a>
+</div>
+
+## Dream Witch Erika ##
+<div class="centered">
+	<a href="/games/dreamwitcherika">
+		<img src="dreamwitcherika/images/header.png" alt="Dream Witch Erika" class="thumbnail" />
 	</a>
 </div>
 
@@ -58,7 +51,7 @@ title: Games
 	</a>
 </div>
 
-## Sienna <small>(Dead)</small> ##
+## Super Catacombs <small>(Dead)</small> ##
 <div class="centered">
 	<a href="/games/supercatacombs">
 		<img src="supercatacombs/images/header.png" alt="Super Catacombs" class="thumbnail" />

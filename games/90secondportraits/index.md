@@ -21,3 +21,14 @@ See [Ludum Dare submission page](http://ludumdare.com/compo/ludum-dare-31/?actio
 </iframe>
 
 Also available from [GitHub](https://github.com/SimonLarsen/90-Second-Portraits/releases/).
+
+## License ##
+
+All assets with the exception of background music by Tangram Games.
+Licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+Music by Kevin MacLeod.<br>
+"Monkeys Spinning Monkeys" Kevin MacLeod (incompetech.com)<br>
+Licensed under [Creative Commons: By Attribution 3.0](http://creativecommons.org/licenses/by/3.0/)
+
+All source code with the exception of [slam.lua](https://raw.githubusercontent.com/SimonLarsen/90-Second-Portraits/master/slam.lua) is licensed under the zlib license. See [LICENSE.txt](https://raw.githubusercontent.com/SimonLarsen/90-Second-Portraits/master/LICENSE.txt).

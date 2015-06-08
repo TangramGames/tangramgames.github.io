@@ -1,10 +1,10 @@
 ---
 layout: game
-title: "Dream Witch Erika <small>(In development)</small>"
+title: "Dream Witch Erika"
 header: images/header.png
 ---
 ### About Dream Witch Erika ##
 
-Dream Witch Erika is a metroidvania platformer developed for Ludum Dare 30.
+Dream Witch Erika is a metroidvania platformer developed for the Ludum Dare 30 competition.
 
-We're currently working on turning it into a fully fleshed game, with updated graphics, sound and an expansive game world.
+See [Ludum Dare submission page](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=1980).

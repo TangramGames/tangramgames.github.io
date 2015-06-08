@@ -37,14 +37,16 @@ If the tentacles reach you it's game over!
 
 ## Downloads ##
 
-### Windows / Mac OS X / Linux ###
-
 <iframe src="//itch.io/embed/7913?dark=true" width="552" height="167" frameborder="0">
 </iframe>
 
 Also available from [GitHub](https://github.com/SimonLarsen/safetyblanket/releases)
 and [Ludum Dare submission page](http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&amp;uid=1980).
 
-### Source code ###
+## License ##
 
-* [GitHub](https://github.com/SimonLarsen/safetyblanket)
+All assets (images, sound, text) made by Tangram Games.
+Licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
+
+All source code with the exception of [slam.lua](https://raw.githubusercontent.com/SimonLarsen/90-Second-Portraits/master/slam.lua) made by Tangram Games.<br>
+Licensed under zlib license. See [LICENSE.txt](https://raw.githubusercontent.com/SimonLarsen/90-Second-Portraits/master/LICENSE.txt).
