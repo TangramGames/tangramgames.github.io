@@ -1,0 +1,93 @@
+body, div, h1, h2, h3, h4 {
+	margin: 0 0 0 0;
+}
+
+body {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 15px;
+	color: #333;
+}
+
+a {
+	text-decoration: none;
+	color: #427eb5;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.container {
+	width: 770px;
+	margin: auto;
+}
+
+.sidebar {
+	width: 200px;
+	float: left;
+	text-align: center;
+	margin: 150px 0 0 0;
+	font-size: 14px;
+}
+
+.game-thumb img {
+	border-radius: 75px;
+	border: 2px solid #427ebf;
+	background: blue;
+	opacity: 1.0;
+	transition: opacity 0.4s;
+}
+
+.game-thumb img:hover {
+	opacity: 0.6;
+}
+
+.game-name {
+	margin: 0 0 20px 0;
+}
+
+.page {
+	width: 555px;
+	float: left;
+	background-image: url("../img/header.png");
+	background-position: left top;
+	background-repeat: no-repeat;
+	margin-top: 35px;
+	padding-top: 65px;
+	padding-left: 15px;
+}
+
+.top-menu {
+	list-style-type: none;
+	margin: 0 0 20px 0;
+	padding: 0 0 0 0;
+}
+
+.top-menu li {
+	display: inline-block;
+	margin-right: 55px;
+	font-size: 17px;
+}
+
+.top-menu a {
+	color: #232323;
+}
+
+.content {
+
+}
+
+.content h1 a {
+	font-size: 32px;
+	font-weight: 400;
+	text-decoration: none;
+}
+
+.timestamp {
+	color: #4d4d4d;
+	margin: 4px 0px 7px 0px;
+}
+
+.content p {
+	text-align: justify;
+}
