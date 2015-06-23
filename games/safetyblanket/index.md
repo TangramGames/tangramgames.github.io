@@ -1,14 +1,12 @@
 ---
 layout: game
-title: "Safety Blanket"
+title: Safety Blanket
 header: images/header.png
 images:
   - images/1.png
   - images/2.png
   - images/3.png
 ---
-## About Safety Blanket ##
-
 Safety Blanket was developed in 48 hours for the Ludum Dare 29 game jam.
 
 It's bed time, the monsters are out to get you, and your blanket is just too small to cover your body! 
@@ -25,14 +23,14 @@ If the tentacles reach you it's game over!
 <div class="centered">
 {% for image in page.images %}
 <a href="{{ image }}">
-	<img src="{{ image }}" width="200" class="thumbnail" />
+	<img src="{{ image }}" width="32%" class="thumbnail" />
 </a>
 {% endfor %}
 </div>
 
 ## Trailer / Timelapse ##
 
-<iframe width="620" height="300" src="//www.youtube.com/embed/9ZszqcVc6fU" frameborder="0" allowfullscreen>
+<iframe width="100%" height="300" src="//www.youtube.com/embed/9ZszqcVc6fU" frameborder="0" allowfullscreen>
 </iframe>
 
 ## Downloads ##

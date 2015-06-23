@@ -1,13 +1,12 @@
 ---
 layout: game
-title: "Sienna"
+title: Sienna
 header: images/header.png
 images:
   - images/1.png
   - images/2.png
   - images/3.png
 ---
-## About Sienna ##
 Sienna is a simple, albeit frustrating, one-button platformer.
 
 The game started as a solo project by Simon but features some artwork by Lukas.
@@ -17,14 +16,14 @@ Sienna was never properly finished but is still pretty fun if you like a challen
 <div class="centered">
 {% for image in page.images %}
 <a href="{{ image }}">
-	<img src="{{ image }}" width="200" class="thumbnail" />
+	<img src="{{ image }}" width="32%" class="thumbnail" />
 </a>
 {% endfor %}
 </div>
 
 ## Gameplay video ##
 
-<iframe width="620" height="300" src="http://www.youtube.com/embed/EZF071lxkwM" frameborder="0" allowfullscreen>
+<iframe width="100%" height="300" src="http://www.youtube.com/embed/EZF071lxkwM" frameborder="0" allowfullscreen>
 </iframe>
 
 ## Downloads ##

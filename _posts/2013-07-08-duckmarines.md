@@ -2,10 +2,11 @@
 layout: post
 title: Announcing Duck Marines
 author: Simon
+twitter: SimonLarsen
 ---
 <div class="centered">
-	<a href="/images/duckmarinesteaser.png">
-		<img src="/images/duckmarinesteaser.png" width="500" alt="Duck Marines teaser" class="thumbnail">
+	<a href="/img/duckmarinesteaser.png">
+		<img src="/img/duckmarinesteaser.png" width="500" alt="Duck Marines teaser" class="thumbnail">
 	</a>
 </div>
 

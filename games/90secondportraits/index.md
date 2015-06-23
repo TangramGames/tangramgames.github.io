@@ -3,8 +3,6 @@ layout: game
 title: "90 Second Portraits"
 header: images/header.png
 ---
-## About 90 Second Portraits ##
-
 90 Second Portraits is a silly speed painting game developed for Ludum Dare 31 Jam competition.
 
 Time is money and you have neither!

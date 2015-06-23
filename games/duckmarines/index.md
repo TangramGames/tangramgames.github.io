@@ -1,6 +1,6 @@
 ---
 layout: game
-title: "Duck Marines"
+title: Duck Marines
 header: images/header.png
 images:
   - images/teaser.png
@@ -8,8 +8,6 @@ images:
   - images/leveleditor.png
   - images/vacuum.gif
 ---
-## About Duck Marines ##
-
 Duck Marines is a cross-platform free software PC remake of Sonic Team's [ChuChu Rocket](http://en.wikipedia.org/wiki/ChuChu_Rocket!).
 
 Duck Marines attempts to recreate the magic from the local multiplayer of ChuChu Rocket while adding new elements like mini games, a level editor,
@@ -20,14 +18,14 @@ colorful pixel art and more.
 <div class="centered">
 {% for image in page.images %}
 <a href="{{ image }}">
-	<img src="{{ image }}" width="300" class="thumbnail" />
+	<img src="{{ image }}" width="49%" class="thumbnail" />
 </a>
 {% endfor %}
 </div>
 
 ## Trailer ##
 
-<iframe width="620" height="315" src="//www.youtube.com/embed/SAz0BsTSXy4" frameborder="0" allowfullscreen>
+<iframe width="100%" height="315" src="//www.youtube.com/embed/SAz0BsTSXy4" frameborder="0" allowfullscreen>
 </iframe>
 
 ## Downloads ##

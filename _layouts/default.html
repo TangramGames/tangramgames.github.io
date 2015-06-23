@@ -1,78 +1,65 @@
+---
+games:
+    - name: Tobu Tobu Girl
+      id: tobutobugirl
+    - name: 90 Second Portraits
+      id: 90secondportraits
+    - name: Mr. Rescue
+      id: mrrescue
+    - name: Safety Blanket
+      id: safetyblanket
+    - name: Duck Marines
+      id: duckmarines
+    - name: Sienna
+      id: sienna
+---
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
-		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-		<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" type="text/css" href="/css/style.css" />
-		<title>{{ page.title | strip_html }} | Tangram</title>
+		<meta charset="UTF-8"></meta>
+		<title>{{ page.title | strip_html }} | Tangram Games</title>
+		<link rel="stylesheet" type="text/css" href="/css/style.css"></link>
+		<link href="http://fonts.googleapis.com/css?family=Droid+Sans:400" rel="stylesheet" type="text/css">
 	</head>
-	
 	<body>
-		<div id="sidebar">
-			<div class="centered">
-				<img src="/images/light_dot.png" alt="" class="side-hline" />
-			</div>
-			<nav>
-				<ul>
-					<li><a href="/">Blog</a></li>
-					<li><a href="/games/">Games</a></li>
-					<li><a href="/about/">About</a></li>
-				</ul>
-			</nav>
-			<div class="centered">
-				<img src="/images/light_dot.png" alt="" class="side-hline" />
-
-				<a href="/games/tobutobugirl">
-					<img src="/images/game_thumb_tobutobugirl.png" class="thumbnail" alt="Tobu Tobu Girl" />
-				</a>
-				<p class="side-gametext">Tobu Tobu Girl <small>(In dev.)</small></p>
-
-				<a href="/games/90secondportraits">
-					<img src="/images/game_thumb_90secondportraits.png" class="thumbnail" alt="90 Second Portraits" />
-				</a>
-				<p class="side-gametext">90 Second Portraits</p>
-
-				<a href="/games/safetyblanket">
-					<img src="/images/game_thumb_safetyblanket.png" class="thumbnail" alt="Safety Blanket" />
-				</a>
-				<p class="side-gametext">Safety Blanket</a>
-
-				<a href="/games/duckmarines">
-					<img src="/images/game_thumb_duckmarines.png" class="thumbnail" alt="Duck Marines" />
-				</a>
-				<p class="side-gametext">Duck Marines</a>
-
-				<a href="/games/mrrescue">
-					<img src="/images/game_thumb_mrrescue.png" class="thumbnail" alt="Mr. Rescue" />
-				</a>
-				<p class="side-gametext">Mr. Rescue</p>
-
-				<a href="/games/dreamwitcherika">
-					<img src="/images/game_thumb_dreamwitcherika.png" class="thumbnail" alt="Dream Witch Erika" />
-				</a>
-				<p class="side-gametext">Dream Witch Erika</small></p>
-
-				<a href="/games/sienna">
-					<img src="/images/game_thumb_sienna.png" class="thumbnail" alt="Sienna" />
-				</a>
-				<p class="side-gametext">Sienna</p>
-
-				<img src="/images/light_dot.png" alt="" class="side-hline" />
-
-				<div class="twitterbox">
-					<ul>
-						<li><a href="http://twitter.com/SimonLarsen">@SimonLarsen</a></li>
-						<li><a href="http://twitter.com/LukasErritsoe">@LukasErritsoe</a></li>
-					</ul>
+		<div class="container">
+			<div class="sidebar">
+				{% for game in page.games %}
+				<div class="game-thumb">
+					<a href="/games/{{ game.id }}">
+						<img src="/img/thumb/{{ game.id }}.png">
+					</a>
 				</div>
-
-				<img src="/images/light_dot.png" alt="" class="side-hline" />
+				<div class="game-name">
+					<a href="/games/{{ game.id }}">
+						{{ game.name }}
+					</a>
+				</div>
+				{% endfor %}
 			</div>
-		</div>
 
-		<div id="container">
-			<h1>{{ page.title }}</h1>
-			{{ content }}
+			<div class="page">
+				<nav>
+					<ul class="top-menu">
+						<li>
+							<a href="/">Blog</a>
+						</li>
+						<li>
+							<a href="/games">Games</a>
+						</li>
+						<li>
+							<a href="/press">Press</a>
+						</li>
+						<li>
+							<a href="/contact">Contact</a>
+						</li>
+					</ul>
+				</nav>
+
+				<div class="content">
+					{{ content }}
+				</div>
+			</div>
 		</div>
 	</body>
 </html>

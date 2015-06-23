@@ -2,11 +2,12 @@
 layout: post
 title: Mr. Rescue released!
 author: Simon
+twitter: SimonLarsen
 ---
 Today is a big day. Not only have we officially launched our new website but also
 decided to release our first game Mr. Rescue.
 
-### Mr. Rescue ###
+## Mr. Rescue ##
 
 [Mr. Rescue](http://tangramgames.dk/games/mrrescue/) is the first of hopefully many games we'll do together under
 the *Tangram Games* moniker. 
@@ -21,7 +22,7 @@ Check out the trailer below:
 
 Download the game for free [here!](http://tangramgames.dk/games/mrrescue/)
 
-### The site ###
+## The site ##
 
 Our new website will primarily serve as a devlog where we'll post
 mockups, screenshots and gameplay videos, but might also occasionally be used for

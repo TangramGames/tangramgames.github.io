@@ -10,7 +10,6 @@ images:
   - images/5.png
   - images/6.png
 ---
-## About Mr. Rescue ##
 Mr. Rescue is an arcade styled 2d action game centered around evacuating civilians from burning buildings.
 
 The game features fast paced fire extinguishing action, intense boss battles,
@@ -22,14 +21,14 @@ As of version 1.02 we have added XBox 360 controller support and fullscreen mode
 <div class="centered">
 {% for image in page.images %}
 <a href="{{ image }}">
-	<img src="{{ image }}" width="200" class="thumbnail" />
+	<img src="{{ image }}" width="32%" class="thumbnail" />
 </a>
 {% endfor %}
 </div>
 
 ## Gameplay video ##
 
-<iframe width="620" height="300" src="http://www.youtube.com/embed/5k7ctkHAURw" frameborder="0" allowfullscreen>
+<iframe width="100%" height="300" src="http://www.youtube.com/embed/5k7ctkHAURw" frameborder="0" allowfullscreen>
 </iframe>
 
 ## Downloads ##

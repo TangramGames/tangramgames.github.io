@@ -2,6 +2,7 @@
 layout: post
 title: Wrapping up Tobu Tobu Girl
 author: Simon
+twitter: SimonLarsen
 ---
 We recently finished up the remaining core elements of Tobu Tobu Girl and only sound and some technical stuff is missing before the game is complete.
 
@@ -12,12 +13,12 @@ a time limit has been added to push the player forward as well as some more diff
 Dashing down into enemies will now kill them and reward you with blips for powerups.
 
 <div class="centered">
-	<a href="/images/ttgstomping.gif">
-		<img class="thumbnail" src="/images/ttgstomping.gif" alt="Tobu Tobu Girl stomping enemies" width="160">
+	<a href="/img/ttgstomping.gif">
+		<img class="thumbnail" src="/img/ttgstomping.gif" alt="Tobu Tobu Girl stomping enemies" width="160">
 	</a>
 
-	<a href="/images/ttgmenuanim.gif">
-		<img class="thumbnail" src="/images/ttgmenuanim.gif" alt="Tobu Tobu Girl animated menu" width="160">
+	<a href="/img/ttgmenuanim.gif">
+		<img class="thumbnail" src="/img/ttgmenuanim.gif" alt="Tobu Tobu Girl animated menu" width="160">
 	</a>
 </div>
 

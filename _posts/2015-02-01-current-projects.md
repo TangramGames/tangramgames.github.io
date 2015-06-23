@@ -2,9 +2,10 @@
 layout: post
 title: Current projects
 author: Lukas
+twitter: LukasErritsoe
 ---
 
-### Tobu Tobu Girl progress ###
+## Tobu Tobu Girl progress ##
 
 Most recently Simon and I have been developing our #GBJAM3 entry Tobu Tobu Girl
 into a fully fledged homebrew game.
@@ -19,20 +20,20 @@ We're aiming for TTG to be a fast paced and addictive experience where you'll
 hopefully want go for just one more try!
 
 <div class="centered">
-	<a href="/images/ttg_title.png">
-		<img class="thumbnail" src="/images/ttg_title.png" alt="Tobu Tobu Girl title screen" width="160">
+	<a href="/img/ttg_title.png">
+		<img class="thumbnail" src="/img/ttg_title.png" alt="Tobu Tobu Girl title screen" width="160">
 	</a>
 
-	<a href="/images/ttg1.gif">
-		<img class="thumbnail" src="/images/ttg1.gif" alt="Tobu Tobu Girl gameplay" width="160">
+	<a href="/img/ttg1.gif">
+		<img class="thumbnail" src="/img/ttg1.gif" alt="Tobu Tobu Girl gameplay" width="160">
 	</a>
 
-	<a href="/images/ttg2.gif">
-		<img class="thumbnail" src="/images/ttg2.gif" alt="Tobu Tobu Girl menu" width="160">
+	<a href="/img/ttg2.gif">
+		<img class="thumbnail" src="/img/ttg2.gif" alt="Tobu Tobu Girl menu" width="160">
 	</a>
 </div>
 
-### Proximity Core preparations ###
+## Proximity Core preparations ##
 
 Working on homebrew can at times be a pretty taxing experience! Our next game
 is something we've been working on/off since early summer last year.
@@ -44,7 +45,7 @@ This should prove to be our biggest project ever in scope and ambition,
 as long as we can keep confidence in our vision!
 
 <div class="centered">
-	<a href="/images/pc_sprite_sketches.png">
-		<img class="thumbnail" src="/images/pc_sprite_sketches.png" alt="Proximity Core character designs">
+	<a href="/img/pc_sprite_sketches.png">
+		<img class="thumbnail" src="/img/pc_sprite_sketches.png" alt="Proximity Core character designs">
 	</a>
 </div>

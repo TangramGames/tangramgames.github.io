@@ -2,6 +2,7 @@
 layout: post
 title: One week later
 author: Simon
+twitter: SimonLarsen
 ---
 A week has now passed since we uploaded Mr. Rescue, a small game we didn't think anybody would give a damn about.
 Since then the game has been downloaded almost a thousand times and we've received a lot of awesome emails, tweets and generally kind words. The whole experience has been really humbling and really amazing.
