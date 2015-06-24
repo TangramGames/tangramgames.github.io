@@ -7,9 +7,6 @@ title: Blog
 <p class="timestamp">
 	Posted on {{ post.date | date_to_string }}
 	by <a href="http://twitter.com/{{ post.twitter }}">@{{ post.twitter }}</a>
-	<a href="https://twitter.com/intent/tweet?text={{ post.title | cgi_escape }}&url={{ post.url | cgi_escape }}&via={{ post.twitter }}">
-		<i class="fa fa-share-alt" title="Share on twitter"></i>
-	</a>
 </p>
 {{ post.content }}
 {% endfor %}
