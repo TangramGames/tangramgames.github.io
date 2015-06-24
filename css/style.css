@@ -60,10 +60,13 @@ a:hover {
 }
 
 .game-thumb img {
-	border-radius: 75px;
 	border: 2px solid;
 	opacity: 1.0;
 	transition: opacity 0.4s;
+}
+
+.game-thumb-rounded img {
+	border-radius: 75px;
 }
 
 .game-thumb img:hover {
@@ -121,4 +124,9 @@ a:hover {
 
 .content p {
 	text-align: justify;
+}
+
+.game-cell {
+	display: inline-block;
+	text-align: center;
 }

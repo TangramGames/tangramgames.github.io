@@ -1,59 +1,75 @@
 ---
 layout: page
 title: Games
+games-indev:
+    - name: N.O.D.E.
+      id: node
+    - name: Tobu Tobu Girl
+      id: tobutobugirl
+games-finished:
+    - name: 90 Second Portraits
+      id: 90secondportraits
+    - name: Mr. Rescue
+      id: mrrescue
+    - name: Safety Blanket
+      id: safetyblanket
+    - name: Duck Marines
+      id: duckmarines
+    - name: Sienna
+      id: sienna
+    - name: Dream Witch Erika
+      id: dreamwitcherika
+games-dead:
+    - name: Super Catacombs
+      id: supercatacombs
 ---
-## Tobu Tobu Girl <small>(In development)</small> ##
-<div class="centered">
-	<a href="/games/tobutobugirl">
-		<img src="tobutobugirl/images/header.png" alt="Tobu Tobu Girl" class="thumbnail" />
-	</a>
-</div>
+## In development ##
 
-## 90 Second Portraits ##
-<div class="centered">
-	<a href="/games/90secondportraits">
-		<img src="90secondportraits/images/header.png" alt="90 Second Portraits" class="thumbnail" />
-	</a>
+{% for game in page.games-indev %}
+<div class="game-cell">
+	<div class="game-thumb">
+		<a href="/games/{{ game.id }}">
+			<img src="/img/thumb/{{ game.id }}.png">
+		</a>
+	</div>
+	<div class="game-name">
+		<a href="/games/{{ game.id }}">
+			{{ game.name }}
+		</a>
+	</div>
 </div>
+{% endfor %}
 
-## Dream Witch Erika ##
-<div class="centered">
-	<a href="/games/dreamwitcherika">
-		<img src="dreamwitcherika/images/header.png" alt="Dream Witch Erika" class="thumbnail" />
-	</a>
-</div>
+## Finished ##
 
-## Safety Blanket ##
-<div class="centered">
-	<a href="/games/safetyblanket">
-		<img src="safetyblanket/images/header.png" alt="Safety Blanket" class="thumbnail" />
-	</a>
+{% for game in page.games-finished %}
+<div class="game-cell">
+	<div class="game-thumb">
+		<a href="/games/{{ game.id }}">
+			<img src="/img/thumb/{{ game.id }}.png">
+		</a>
+	</div>
+	<div class="game-name">
+		<a href="/games/{{ game.id }}">
+			{{ game.name }}
+		</a>
+	</div>
 </div>
+{% endfor %}
 
-## Duck Marines ##
-<div class="centered">
-	<a href="/games/duckmarines">
-		<img src="duckmarines/images/header.png" alt="Duck Marines" class="thumbnail" />
-	</a>
-</div>
+## Dead ##
 
-## Mr. Rescue ##
-<div class="centered">
-	<a href="/games/mrrescue">
-		<img src="mrrescue/images/header.png" alt="Mr. Rescue" class="thumbnail" />
-	</a>
+{% for game in page.games-dead %}
+<div class="game-cell">
+	<div class="game-thumb">
+		<a href="/games/{{ game.id }}">
+			<img src="/img/thumb/{{ game.id }}.png">
+		</a>
+	</div>
+	<div class="game-name">
+		<a href="/games/{{ game.id }}">
+			{{ game.name }}
+		</a>
+	</div>
 </div>
-
-## Sienna ##
-<div class="centered">
-	<a href="/games/sienna">
-		<img src="sienna/images/header.png" alt="Mr. Rescue" class="thumbnail" />
-	</a>
-</div>
-
-## Super Catacombs <small>(Dead)</small> ##
-<div class="centered">
-	<a href="/games/supercatacombs">
-		<img src="supercatacombs/images/header.png" alt="Super Catacombs" class="thumbnail" />
-	</a>
-</div>
+{% endfor %}

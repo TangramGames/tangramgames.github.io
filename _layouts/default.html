@@ -1,5 +1,7 @@
 ---
 games:
+    - name: N.O.D.E.
+      id: node
     - name: Tobu Tobu Girl
       id: tobutobugirl
     - name: 90 Second Portraits
@@ -18,14 +20,15 @@ games:
 	<head>
 		<meta charset="UTF-8"></meta>
 		<title>{{ page.title | strip_html }} | Tangram Games</title>
-		<link rel="stylesheet" type="text/css" href="/css/style.css"></link>
-		<link href="http://fonts.googleapis.com/css?family=Droid+Sans:400" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" type="text/css" href="/css/style.css">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:400">
+		<link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css">
 	</head>
 	<body>
 		<div class="container">
 			<div class="sidebar">
 				{% for game in page.games %}
-				<div class="game-thumb">
+				<div class="game-thumb game-thumb-rounded">
 					<a href="/games/{{ game.id }}">
 						<img src="/img/thumb/{{ game.id }}.png">
 					</a>

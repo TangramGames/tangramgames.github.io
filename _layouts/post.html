@@ -2,5 +2,11 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-<p class="timestamp">Posted on {{ page.date | date_to_string }} by <a href="http://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a></p>
+<p class="timestamp">
+	Posted on {{ page.date | date_to_string }}
+	by <a href="http://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a>
+	<a href="https://twitter.com/intent/tweet?text={{ page.title | cgi_escape }}&url={{ page.url | cgi_escape }}&via={{ page.twitter }}">
+		<i class="fa fa-share-alt" title="Share on twitter"></i>
+	</a>
+</p>
 {{ content }}
