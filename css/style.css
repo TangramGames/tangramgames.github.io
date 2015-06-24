@@ -20,6 +20,11 @@ blockquote {
 	border-left: 10px solid #d9d9d9;
 }
 
+small {
+	font-size: 13px;
+	color: #565656;
+}
+
 a:hover {
 	text-decoration: underline;
 }
