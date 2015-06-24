@@ -25,21 +25,6 @@ games:
 	</head>
 	<body>
 		<div class="container">
-			<div class="sidebar">
-				{% for game in page.games %}
-				<div class="game-thumb game-thumb-rounded">
-					<a href="/games/{{ game.id }}">
-						<img src="/img/thumb/{{ game.id }}.png">
-					</a>
-				</div>
-				<div class="game-name">
-					<a href="/games/{{ game.id }}">
-						{{ game.name }}
-					</a>
-				</div>
-				{% endfor %}
-			</div>
-
 			<div class="page">
 				<nav>
 					<ul class="top-menu">
@@ -61,6 +46,21 @@ games:
 				<div class="content">
 					{{ content }}
 				</div>
+			</div>
+
+			<div class="sidebar">
+				{% for game in page.games %}
+				<div class="game-thumb game-thumb-rounded">
+					<a href="/games/{{ game.id }}">
+						<img src="/img/thumb/{{ game.id }}.png">
+					</a>
+				</div>
+				<div class="game-name">
+					<a href="/games/{{ game.id }}">
+						{{ game.name }}
+					</a>
+				</div>
+				{% endfor %}
 			</div>
 		</div>
 	</body>
