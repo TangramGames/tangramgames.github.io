@@ -19,11 +19,11 @@ As of version 1.02 we have added XBox 360 controller support and fullscreen mode
 
 ## Screenshots ##
 <div class="centered">
-{% for image in page.images %}
-<a href="{{ image }}">
-	<img src="{{ image }}" width="32%" class="thumbnail" />
-</a>
-{% endfor %}
+	{% for image in page.images %}
+	<a href="{{ image }}">
+		<img src="{{ image }}" width="32%" class="thumbnail">
+	</a>
+	{% endfor %}
 </div>
 
 ## Gameplay video ##
