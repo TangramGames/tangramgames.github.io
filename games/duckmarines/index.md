@@ -18,7 +18,7 @@ colorful pixel art and more.
 <div class="centered">
 {% for image in page.images %}
 <a href="{{ image }}">
-	<img src="{{ image }}" width="49%" class="thumbnail" />
+	<img src="{{ image }}" width="49%" class="thumbnail">
 </a>
 {% endfor %}
 </div>
