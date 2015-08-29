@@ -129,6 +129,7 @@ a:hover {
 
 .content p {
 	text-align: justify;
+	line-height: 1.4;
 }
 
 .game-cell {
