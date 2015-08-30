@@ -8,6 +8,9 @@ Drop us an email at [&#119;&#101;&#097;&#114;&#101;&#116;&#097;&#110;&#103;&#114
 Or hit us up on twitter:
 <ul>
 	<li>
+		<a href="http://twitter.com/TangramGames">@TangramGames</a>
+	</li>
+	<li>
 		<a href="http://twitter.com/SimonLarsen">@SimonLarsen</a>
 	</li>
 	<li>
