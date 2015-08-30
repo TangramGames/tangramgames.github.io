@@ -132,6 +132,10 @@ a:hover {
 	line-height: 1.4;
 }
 
+.content li {
+	margin: 0 0 4px 0;
+}
+
 .game-cell {
 	display: inline-block;
 	text-align: center;
