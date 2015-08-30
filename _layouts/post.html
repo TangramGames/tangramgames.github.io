@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }} <a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-via="TangramGames" data-count="none" data-dnt="true">Tweet</a></h1>
+<h1>{{ page.title }}</h1>
 <p class="timestamp">
 	Posted on {{ page.date | date_to_string }}
 	by <a href="http://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a>
+	<a href="http://facebook.com/sharer.php?u={{ page.url | uri_encode }}"><i class="fa fa-facebook-square"></i></a>
+	<a href="https://twitter.com/intent/tweet?url={{ page.url | uri_encode }}&text={{ page.title | uri_encode }}&via=TangramGames"><i class="fa fa-twitter-square"></i></a>
 </p>
-{{ content }}
 
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+{{ content }}
