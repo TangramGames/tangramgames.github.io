@@ -7,8 +7,8 @@ title: Blog
 <p class="timestamp">
 	Posted on {{ post.date | date_to_string }}
 	by <a href="http://twitter.com/{{ post.twitter }}">@{{ post.twitter }}</a>
-	<a href="http://facebook.com/sharer.php?u={{ post.url | uri_encode }}"><i class="fa fa-facebook-square"></i></a>
-	<a href="https://twitter.com/intent/tweet?url={{ post.url | uri_encode }}&text={{ post.title | uri_encode }}&via=TangramGames"><i class="fa fa-twitter-square"></i></a>
+	<a href="http://facebook.com/sharer.php?u={{ site.url }}{{ post.url | uri_encode }}"><i class="fa fa-facebook-square"></i></a>
+	<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ post.url | uri_encode }}&text={{ post.title | uri_encode }}&via=TangramGames"><i class="fa fa-twitter-square"></i></a>
 </p>
 {{ post.content }}
 {% endfor %}
