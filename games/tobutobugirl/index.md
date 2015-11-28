@@ -3,9 +3,9 @@ layout: game
 title: Tobu Tobu Girl
 header: images/header.png
 images:
-    - images/2.gif
-    - images/1.png
-    - images/3.gif
+    - images/ttg1.png
+    - images/ttg2.png
+    - images/ttg3.png
 ---
 > Tobu Tobu Girl is currently in development.
 
