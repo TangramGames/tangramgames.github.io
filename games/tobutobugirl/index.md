@@ -9,7 +9,10 @@ images:
 ---
 > Tobu Tobu Girl is currently in development.
 
-Tobu Tobu Girl simple but challenging platform game for the Nintendo Game Boy.
+Tobu Tobu Girl is a simple but challenging game about jumping climbing the skies
+to save your cat.
+
+The game is scheduled for release on the Nintendo Game Boy early 2016.
 
 ## Screenshots ##
 
