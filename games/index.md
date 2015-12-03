@@ -6,7 +6,7 @@ games-indev:
       id: tobutobugirl
     - name: N.O.D.E.
       id: node
-games-finished:
+games-released:
     - name: 90 Second Portraits
       id: 90secondportraits
     - name: Mr. Rescue
@@ -40,9 +40,9 @@ games-dead:
 </div>
 {% endfor %}
 
-## Finished ##
+## Released ##
 
-{% for game in page.games-finished %}
+{% for game in page.games-released %}
 <div class="game-cell">
 	<div class="game-thumb">
 		<a href="/games/{{ game.id }}">
