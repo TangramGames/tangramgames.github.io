@@ -2,10 +2,10 @@
 layout: page
 title: Games
 games-indev:
-    - name: N.O.D.E.
-      id: node
     - name: Tobu Tobu Girl
       id: tobutobugirl
+    - name: N.O.D.E.
+      id: node
 games-finished:
     - name: 90 Second Portraits
       id: 90secondportraits
