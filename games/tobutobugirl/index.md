@@ -6,13 +6,19 @@ images:
     - images/ttg1.png
     - images/ttg2.png
     - images/ttg3.png
+    - images/ttg4.png
+    - images/ttg5.png
+    - images/ttg6.png
 ---
-> Tobu Tobu Girl is currently in development.
 
-Tobu Tobu Girl is a simple but challenging game about jumping climbing the skies
-to save your cat.
+In Tobu Tobu Girl your cat has taken to the skies and you must bounce, jump and dash your way to the top to bring him home safely!
 
-The game is scheduled for release on the Nintendo Game Boy early 2016.
+Tobu Tobu Girl is a simple but challenging game of vertical climbing against the clock, scheduled to release later this year on the Nintendo Game Boy. 
+
+## Teaser trailer ##
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mxENfVnmIuI" frameborder="0" allowfullscreen>
+</iframe>
 
 ## Screenshots ##
 
