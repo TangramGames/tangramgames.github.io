@@ -4,8 +4,8 @@ title: Games
 games-indev:
     - name: Tobu Tobu Girl
       id: tobutobugirl
-    - name: N.O.D.E.
-      id: node
+    - name: Rakshasa
+      id: rakshasa
 games-released:
     - name: 90 Second Portraits
       id: 90secondportraits
@@ -19,57 +19,43 @@ games-released:
       id: sienna
     - name: Dream Witch Erika
       id: dreamwitcherika
-games-dead:
-    - name: Super Catacombs
-      id: supercatacombs
+    - name: N.O.D.E.
+      id: node
 ---
 ## In development ##
 
-{% for game in page.games-indev %}
-<div class="game-cell">
-	<div class="game-thumb">
-		<a href="/games/{{ game.id }}">
-			<img src="/img/thumb/{{ game.id }}.png">
-		</a>
+<div class="row">
+	{% for game in page.games-indev %}
+	<div class="col-sm-4">
+		<div class="thumbnail">
+			<a href="/games/{{ game.id }}">
+				<img src="/img/thumb/{{ game.id }}.png" class="img-responsive">
+			</a>
+			<div class="caption text-center">
+				<a href="/games/{{ game.id }}">
+					{{ game.name }}
+				</a>
+			</div>
+		</div>
 	</div>
-	<div class="game-name">
-		<a href="/games/{{ game.id }}">
-			{{ game.name }}
-		</a>
-	</div>
+	{% endfor %}
 </div>
-{% endfor %}
 
 ## Released ##
 
-{% for game in page.games-released %}
-<div class="game-cell">
-	<div class="game-thumb">
-		<a href="/games/{{ game.id }}">
-			<img src="/img/thumb/{{ game.id }}.png">
-		</a>
+<div class="row">
+	{% for game in page.games-released %}
+	<div class="col-sm-4">
+		<div class="thumbnail">
+			<a href="/games/{{ game.id }}">
+				<img src="/img/thumb/{{ game.id }}.png" class="img-responsive">
+			</a>
+			<div class="caption text-center">
+				<a href="/games/{{ game.id }}">
+					{{ game.name }}
+				</a>
+			</div>
+		</div>
 	</div>
-	<div class="game-name">
-		<a href="/games/{{ game.id }}">
-			{{ game.name }}
-		</a>
-	</div>
+	{% endfor %}
 </div>
-{% endfor %}
-
-## Dead ##
-
-{% for game in page.games-dead %}
-<div class="game-cell">
-	<div class="game-thumb">
-		<a href="/games/{{ game.id }}">
-			<img src="/img/thumb/{{ game.id }}.png">
-		</a>
-	</div>
-	<div class="game-name">
-		<a href="/games/{{ game.id }}">
-			{{ game.name }}
-		</a>
-	</div>
-</div>
-{% endfor %}

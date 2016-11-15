@@ -18,18 +18,23 @@ a catchy soundtrack and lots of throwing people around in pseudo-randomly genera
 As of version 1.02 we have added XBox 360 controller support and fullscreen modes.
 
 ## Screenshots ##
-<div class="centered">
+
+<div class="row">
 	{% for image in page.images %}
-	<a href="{{ image }}">
-		<img src="{{ image }}" width="32%" class="thumbnail">
-	</a>
+	<div class="col-sm-4">
+		<a href="{{ image }}">
+			<img src="{{ image }}" class="thumbnail img-responsive">
+		</a>
+	</div>
 	{% endfor %}
 </div>
 
 ## Gameplay video ##
 
-<iframe width="100%" height="300" src="http://www.youtube.com/embed/5k7ctkHAURw" frameborder="0" allowfullscreen>
-</iframe>
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe src="http://www.youtube.com/embed/5k7ctkHAURw" frameborder="0" allowfullscreen>
+	</iframe>
+</div>
 
 ## Downloads ##
 

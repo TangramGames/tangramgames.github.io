@@ -12,14 +12,17 @@ However being able to carefully plan each jump makes the game way too easy and b
 a time limit has been added to push the player forward as well as some more difficult enemies.
 Dashing down into enemies will now kill them and reward you with blips for powerups.
 
-<div class="centered">
-	<a href="/img/ttgstomping.gif">
-		<img class="thumbnail" src="/img/ttgstomping.gif" alt="Tobu Tobu Girl stomping enemies" width="160">
-	</a>
-
-	<a href="/img/ttgmenuanim.gif">
-		<img class="thumbnail" src="/img/ttgmenuanim.gif" alt="Tobu Tobu Girl animated menu" width="160">
-	</a>
+<div class="row">
+	<div class="col-sm-6">
+		<a href="/img/ttgstomping.gif">
+			<img class="thumbnail img-responsive" src="/img/ttgstomping.gif" alt="Tobu Tobu Girl stomping enemies">
+		</a>
+	</div>
+	<div class="col-sm-6">
+		<a href="/img/ttgmenuanim.gif">
+			<img class="thumbnail img-responsive" src="/img/ttgmenuanim.gif" alt="Tobu Tobu Girl animated menu">
+		</a>
+	</div>
 </div>
 
 The new design still has a rather high skill floor but this is probably as low as it gets if we want to keep the high skill ceiling.

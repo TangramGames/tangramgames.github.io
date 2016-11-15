@@ -19,18 +19,22 @@ some of what's present in the screenshots below.
 We're aiming for TTG to be a fast paced and addictive experience where you'll
 hopefully want go for just one more try!
 
-<div class="centered">
-	<a href="/img/ttg_title.png">
-		<img class="thumbnail" src="/img/ttg_title.png" alt="Tobu Tobu Girl title screen" width="160">
-	</a>
-
-	<a href="/img/ttg1.gif">
-		<img class="thumbnail" src="/img/ttg1.gif" alt="Tobu Tobu Girl gameplay" width="160">
-	</a>
-
-	<a href="/img/ttg2.gif">
-		<img class="thumbnail" src="/img/ttg2.gif" alt="Tobu Tobu Girl menu" width="160">
-	</a>
+<div class="row">
+	<div class="col-sm-4">
+		<a href="/img/ttg_title.png">
+			<img class="thumbnail img-responsive" src="/img/ttg_title.png" alt="Tobu Tobu Girl title screen">
+		</a>
+	</div>
+	<div class="col-sm-4">
+		<a href="/img/ttg1.gif">
+			<img class="thumbnail img-responsive" src="/img/ttg1.gif" alt="Tobu Tobu Girl gameplay">
+		</a>
+	</div>
+	<div class="col-sm-4">
+		<a href="/img/ttg2.gif">
+			<img class="thumbnail img-responsive" src="/img/ttg2.gif" alt="Tobu Tobu Girl menu">
+		</a>
+	</div>
 </div>
 
 ## Proximity Core preparations ##
@@ -44,8 +48,6 @@ For now I just want to tease the hopefully finalized main character design.
 This should prove to be our biggest project ever in scope and ambition,
 as long as we can keep confidence in our vision!
 
-<div class="centered">
-	<a href="/img/pc_sprite_sketches.png">
-		<img class="thumbnail" src="/img/pc_sprite_sketches.png" alt="Proximity Core character designs">
-	</a>
-</div>
+<a href="/img/pc_sprite_sketches.png">
+	<img class="thumbnail img-responsive center-block" src="/img/pc_sprite_sketches.png" alt="Proximity Core character designs">
+</a>

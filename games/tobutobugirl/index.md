@@ -17,15 +17,19 @@ Tobu Tobu Girl is a simple but challenging game of vertical climbing against the
 
 ## Teaser trailer ##
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/mxENfVnmIuI" frameborder="0" allowfullscreen>
-</iframe>
+<div class="embed-responsive embed-responsive-4by3">
+	<iframe src="https://www.youtube.com/embed/mxENfVnmIuI" frameborder="0" allowfullscreen>
+	</iframe>
+</div>
 
 ## Screenshots ##
 
-<div class="centered">
+<div class="row">
 	{% for image in page.images %}
-	<a href="{{ image }}">
-		<img src="{{ image }}" width="160" class="thumbnail">
-	</a>
+	<div class="col-md-4">
+		<a href="{{ image }}">
+			<img src="{{ image }}" class="img-responsive thumbnail">
+		</a>
+	</div>
 	{% endfor %}
 </div>

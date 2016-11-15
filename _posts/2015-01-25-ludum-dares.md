@@ -14,13 +14,17 @@ Nonetheless i would like to think that this has been a fruitful half year.
 
 I guess getting a pretty unexpected 5th place in the first LD we participated in (LD29) made our 35th place this LD a kind of disappointment. The process and aftermath of making Dream Witch Erika certainly made us more aware of what constitutes a good, or atleast appropriate, scope for a jam game. Not to say that we think this is a bad game, but making our first metroidvania-styled game and doing so during a 72hour jam, made for more of a learning experience than a proper "product".
 
-<div class="centered">
-	<a href="/img/dwe1.png">
-		<img alt="Dream Witch Erika screenshot" class="thumbnail" src="/img/dwe1.png" width="45%">
-	</a>
-	<a href="/img/dwe2.png">
-		<img alt="Dream Witch Erika screenshot" class="thumbnail" src="/img/dwe2.png" width="45%">
-	</a>
+<div class="row">
+	<div class="col-sm-6">
+		<a href="/img/dwe1.png">
+			<img alt="Dream Witch Erika screenshot" class="thumbnail img-responsive" src="/img/dwe1.png">
+		</a>
+	</div>
+	<div class="col-sm-6">
+		<a href="/img/dwe2.png">
+			<img alt="Dream Witch Erika screenshot" class="thumbnail img-responsive" src="/img/dwe2.png">
+		</a>
+	</div>
 </div>
 
 ## LD31 ##
@@ -35,13 +39,17 @@ During the voting period people go through a lot of jam games, and as such won't
 One of the faults of Dream Witch Erika was that the game simply took too long to unfold, being a bit barren and featureless until you ventured far enough into the world before the game got any fun.
 We definitely wanted this game to be small in scale but polished, and most importantly fun from the get go!
 
-<div class="centered">
-	<a href="/img/90sp1">
-		<img alt="90 Second Portraits screenshot" class="thumbnail" src="/img/90sp1.png" width="45%">
-	</a>
-	<a href="/img/90sp2">
-		<img alt="90 Second Portraits screenshot" class="thumbnail" src="/img/90sp2.png" width="45%">
-	</a>
+<div class="row">
+	<div class="col-sm-6">
+		<a href="/img/90sp1">
+			<img alt="90 Second Portraits screenshot" class="thumbnail img-responsive" src="/img/90sp1.png">
+		</a>
+	</div>
+	<div class="col-sm-6">
+		<a href="/img/90sp2">
+			<img alt="90 Second Portraits screenshot" class="thumbnail img-responsive" src="/img/90sp2.png">
+		</a>
+	</div>
 </div>
 
 Lately the game has seen a pretty decent amount of exposure on gaming blogs, and seems to be especially popular among streamers and YouTubers.
