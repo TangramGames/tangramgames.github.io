@@ -10,24 +10,32 @@ Returning from the dead (less so if you're subscribed to Simon's twitter) we bri
 
 We participated in this years [#GBJAM](http://gbjam.net), creating the pseudo rogue/Sokoban-like-like "Super Catacombs". A few months prior we had in fact already started development of a roleplaying game for the Game Boy, but we halted that project as it was far too ambitious as a first(ish) time endeavour of GB development. #GBJAM then seemed like the obvious opportunity to force ourselves into keeping a realistic scope.
 
-<div class="centered">
-	<a href="/img/geno_title.gif">
-		<img alt="geno:system title" class="thumbnail" src="/img/geno_title.gif" width="160">
-	</a>
-	<a href="/img/geno_mockup.png">
-		<img alt="geno:system character mockups" class="thumbnail" src="/img/geno_mockup.png" width="160">
-	</a>
+<div class="row">
+	<div class="col-sm-6">
+		<a href="/img/geno_title.gif">
+			<img alt="geno:system title" class="thumbnail img-responsive" src="/img/geno_title.gif">
+		</a>
+	</div>
+	<div class="col-sm-6">
+		<a href="/img/geno_mockup.png">
+			<img alt="geno:system character mockups" class="thumbnail img-responsive" src="/img/geno_mockup.png">
+		</a>
+	</div>
 </div>
 
 Super Catacombs quickly proceeded to get much too ambitious for us to create in the 10 days that the Jam lasted. Instead we opted to make a compromised prototype showing of some of the ideas and gameplay elements that will be the focus of the finished product.
 
-<div class="centered">
-	<a href="/img/supercatacombs_idle.gif">
-		<img alt="Super Catacombs idle animations" class="thumbnail" src="/img/supercatacombs_idle.gif" width="160">
-	</a>
-	<a href="/img/supercatacombs_title.png">
-		<img alt="Super Catacombs title screen" class="thumbnail" src="/img/supercatacombs_title.png" width="160">
-	</a>
+<div class="row">
+	<div class="col-sm-6">
+		<a href="/img/supercatacombs_idle.gif">
+			<img alt="Super Catacombs idle animations" class="thumbnail img-responsive" src="/img/supercatacombs_idle.gif">
+		</a>
+	</div>
+	<div class="col-sm-6">
+		<a href="/img/supercatacombs_title.png">
+			<img alt="Super Catacombs title screen" class="thumbnail img-responsive" src="/img/supercatacombs_title.png">
+		</a>
+	</div>
 </div>
 
 Time was really hard to come by during the jam which really shows and thus the game isn't really that fun right now.
@@ -42,11 +50,9 @@ Things have slowly been coming together during the last couple of months. The ba
 
 Most recently we've added a second mini-game (the design and artwork for a third one has been completed too), revamped the settings menu, fixed a lot of controller issues and a lot of behind the scenes stuff only Simon would know about.
 
-<div class="centered">
-	<a href="/img/duckmarines_escape.gif">
-		<img alt="Escape mini game" class="thumbnail" src="/img/duckmarines_escape.gif" width="500">
-	</a>
-</div>
+<a href="/img/duckmarines_escape.gif">
+	<img alt="Escape mini game" class="thumbnail img-responsive center-block" src="/img/duckmarines_escape.gif">
+</a>
 
 ## Mr. Rescue on itch.io ##
 

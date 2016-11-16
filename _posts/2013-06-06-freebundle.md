@@ -5,11 +5,11 @@ author: Simon
 twitter: SimonLarsen
 ---
 ## The Free Bundle ##
-<div class="centered postheader">
-	<a href="http://www.thefreebundle.com/">
-		<img src="/img/freebundle.png" alt="The Free Bundle 7" class="thumbnail" />
-	</a>
-</div>
+
+<a href="http://www.thefreebundle.com/">
+	<img src="/img/freebundle.png" alt="The Free Bundle 7" class="img-responsive center-block">
+</a>
+
 The Free Bundle is an awesome bundle showcasing free indie games.
 The newest edition features Mr. Rescue as well as four other great indie games
 that you should check out.

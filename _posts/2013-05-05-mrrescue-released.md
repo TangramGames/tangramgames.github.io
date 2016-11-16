@@ -17,8 +17,10 @@ and while it is not for everybody, we're still very pleased with the result.
 
 Check out the trailer below:
 
-<iframe width="100%" height="300" src="http://www.youtube.com/embed/5k7ctkHAURw" frameborder="0" allowfullscreen>
-</iframe>
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe src="http://www.youtube.com/embed/5k7ctkHAURw" frameborder="0" allowfullscreen>
+	</iframe>
+</div>
 
 Download the game for free [here!](http://tangramgames.dk/games/mrrescue/)
 

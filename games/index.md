@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: widepage
 title: Games
 games-indev:
     - name: Tobu Tobu Girl
@@ -26,16 +26,16 @@ games-released:
 
 <div class="row">
 	{% for game in page.games-indev %}
-	<div class="col-sm-4">
-		<div class="thumbnail">
-			<a href="/games/{{ game.id }}">
-				<img src="/img/thumb/{{ game.id }}.png" class="img-responsive">
-			</a>
-			<div class="caption text-center">
+	<div class="col-md-3 col-sm-4 col-xs-12">
+		<a href="/games/{{ game.id }}">
+			<img src="/img/thumb/{{ game.id }}.png" class="center-block img-responsive">
+		</a>
+		<div class="caption">
+			<p class="text-center">
 				<a href="/games/{{ game.id }}">
 					{{ game.name }}
 				</a>
-			</div>
+			</p>
 		</div>
 	</div>
 	{% endfor %}
@@ -45,16 +45,16 @@ games-released:
 
 <div class="row">
 	{% for game in page.games-released %}
-	<div class="col-sm-4">
-		<div class="thumbnail">
-			<a href="/games/{{ game.id }}">
-				<img src="/img/thumb/{{ game.id }}.png" class="img-responsive">
-			</a>
-			<div class="caption text-center">
+	<div class="col-md-3 col-sm-4 col-xs-12">
+		<a href="/games/{{ game.id }}">
+			<img src="/img/thumb/{{ game.id }}.png" class="center-block img-responsive">
+		</a>
+		<div class="caption">
+			<p class="text-center">
 				<a href="/games/{{ game.id }}">
 					{{ game.name }}
 				</a>
-			</div>
+			</p>
 		</div>
 	</div>
 	{% endfor %}

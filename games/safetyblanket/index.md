@@ -20,12 +20,14 @@ If the tentacles reach you it's game over!
 
 ## Screenshots ##
 
-<div class="centered">
-{% for image in page.images %}
-<a href="{{ image }}">
-	<img src="{{ image }}" width="32%" class="thumbnail" />
-</a>
-{% endfor %}
+<div class="row">
+	{% for image in page.images %}
+	<div class="col-sm-4">
+		<a href="{{ image }}">
+			<img src="{{ image }}" class="img-responsive thumbnail">
+		</a>
+	</div>
+	{% endfor %}
 </div>
 
 ## Trailer / Timelapse ##

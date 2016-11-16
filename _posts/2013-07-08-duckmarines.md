@@ -4,11 +4,9 @@ title: Announcing Duck Marines
 author: Simon
 twitter: SimonLarsen
 ---
-<div class="centered">
-	<a href="/img/duckmarinesteaser.png">
-		<img src="/img/duckmarinesteaser.png" width="500" alt="Duck Marines teaser" class="thumbnail">
-	</a>
-</div>
+<a href="/img/duckmarinesteaser.png">
+	<img src="/img/duckmarinesteaser.png" alt="Duck Marines teaser" class="thumbnail img-responsive center-block">
+</a>
 
 After a short break (due to other responsibilities) we've finally started brainstorm/planning our next game.
 While doing so we're also working on a small pet project called [Duck Marines](/games/duckmarines) (working title) just to stay busy.

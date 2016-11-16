@@ -2,11 +2,6 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-<p class="timestamp">
-	Posted on {{ page.date | date_to_string }}
-	by <a href="http://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a>
-	<a href="http://facebook.com/sharer.php?u={{ site.url }}{{ page.url | uri_encode }}"><i class="fa fa-facebook-square"></i></a>
-	<a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url | uri_encode }}&text={{ page.title | uri_encode }}&via=TangramGames"><i class="fa fa-twitter-square"></i></a>
-</p>
+<p class="timestamp">Posted on {{ page.date | date_to_string }} by <a href="http://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a></p>
 
 {{ content }}

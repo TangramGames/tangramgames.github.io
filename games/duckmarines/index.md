@@ -15,18 +15,22 @@ colorful pixel art and more.
 
 ## Screenshots ##
 
-<div class="centered">
-{% for image in page.images %}
-<a href="{{ image }}">
-	<img src="{{ image }}" width="49%" class="thumbnail">
-</a>
-{% endfor %}
+<div class="row">
+	{% for image in page.images %}
+	<div class="col-sm-6">
+		<a href="{{ image }}">
+			<img src="{{ image }}" class="img-responsive thumbnail">
+		</a>
+	</div>
+	{% endfor %}
 </div>
 
 ## Trailer ##
 
-<iframe width="100%" height="315" src="//www.youtube.com/embed/SAz0BsTSXy4" frameborder="0" allowfullscreen>
-</iframe>
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe src="//www.youtube.com/embed/SAz0BsTSXy4" frameborder="0" allowfullscreen>
+	</iframe>
+</div>
 
 ## Downloads ##
 
