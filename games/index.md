@@ -1,31 +1,13 @@
 ---
 layout: widepage
 title: Games
-games-indev:
-    - name: Tobu Tobu Girl
-      id: tobutobugirl
-    - name: Rakshasa
-      id: rakshasa
-games-released:
-    - name: 90 Second Portraits
-      id: 90secondportraits
-    - name: Mr. Rescue
-      id: mrrescue
-    - name: Safety Blanket
-      id: safetyblanket
-    - name: Duck Marines
-      id: duckmarines
-    - name: Sienna
-      id: sienna
-    - name: Dream Witch Erika
-      id: dreamwitcherika
-    - name: N.O.D.E.
-      id: node
 ---
+
 ## In development ##
 
 <div class="row">
-	{% for game in page.games-indev %}
+	{% for game in site.data.games %}
+	{% if game.status == "indev" %}
 	<div class="col-md-3 col-sm-4 col-xs-12">
 		<a href="/games/{{ game.id }}">
 			<img src="/img/thumb/{{ game.id }}.png" class="center-block img-responsive">
@@ -38,13 +20,15 @@ games-released:
 			</p>
 		</div>
 	</div>
+	{% endif %}
 	{% endfor %}
 </div>
 
 ## Released ##
 
 <div class="row">
-	{% for game in page.games-released %}
+	{% for game in site.data.games %}
+	{% if game.status == "released" %}
 	<div class="col-md-3 col-sm-4 col-xs-12">
 		<a href="/games/{{ game.id }}">
 			<img src="/img/thumb/{{ game.id }}.png" class="center-block img-responsive">
@@ -57,5 +41,6 @@ games-released:
 			</p>
 		</div>
 	</div>
+	{% endif %}
 	{% endfor %}
 </div>
