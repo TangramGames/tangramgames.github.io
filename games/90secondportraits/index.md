@@ -2,6 +2,11 @@
 layout: game
 title: "90 Second Portraits"
 header: images/header.png
+images:
+  - images/1.png
+  - images/2.png
+  - images/3.png
+  - images/4.png
 ---
 90 Second Portraits is a silly speed painting game developed for Ludum Dare 31 Jam competition.
 
@@ -12,6 +17,18 @@ You have 90 seconds to paint the customer and his/her prefered background!
 Your work day ends after 5 customers!
 
 See [Ludum Dare submission page](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=1980).
+
+## Screenshots ##
+
+<div class="row">
+	{% for image in page.images %}
+	<div class="col-sm-6">
+		<a href="{{ image }}">
+			<img src="{{ image }}" class="thumbnail img-responsive">
+		</a>
+	</div>
+	{% endfor %}
+</div>
 
 ## Download ##
 

@@ -1,7 +1,11 @@
-.timestamp {
+p .timestamp {
 	color: #666;
 }
 
 div .content {
 	margin-bottom: 20px;
+}
+
+div .game-header {
+	margin-bottom: 15px;
 }
