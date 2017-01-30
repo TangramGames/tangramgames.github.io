@@ -22,17 +22,24 @@ images:
 
 ## Screenshots ##
 
-<div class="centered">
+<div class="row">
 	{% for image in page.images %}
-	<a href="{{ image }}">
-		<img src="{{ image }}" width="160" class="thumbnail">
-	</a>
+	<div class="col-sm-4">
+		<a href="{{ image }}">
+			<img src="{{ image }}" class="img-responsive thumbnail">
+		</a>
+	</div>
 	{% endfor %}
 </div>
 
-## Gameplay video ##
+## Teaser trailer ##
+
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe src="https://www.youtube.com/embed/mxENfVnmIuI" frameborder="0" allowfullscreen>
+	</iframe>
+</div>
 
 ## Playable demo ##
 
-* Download preview build [here](files/tobutobugirl-preview.zip).
+* Download preview build [here](files/tobutobugirl-preview-2016-01-30-2124.zip).
   The archive is password protected.
