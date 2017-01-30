@@ -41,5 +41,5 @@ images:
 
 ## Playable demo ##
 
-* Download preview build [here](files/tobutobugirl-preview-2016-01-30-2124.zip).
+* Download preview build [here](files/tobutobugirl-preview-2017-01-30-2124.zip).
   The archive is password protected.
