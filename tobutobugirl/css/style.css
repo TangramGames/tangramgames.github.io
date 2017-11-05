@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-	font-size: 3.0rem;
+	font-size: 3.3rem;
 }
 
 .top-logo {
@@ -34,7 +34,7 @@ h1 {
 }
 
 .cat-girl-header {
-	margin-bottom: 70px;
+	margin-bottom: 90px;
 }
 
 .intro-text {
@@ -42,13 +42,7 @@ h1 {
 	text-align: center;
 }
 
-.thumbnail {
-	background-color: #354569;
-	border-radius: 8px;
-	border: 0;
-}
-
-.img-ingame {
+.box-ingame {
 	padding: 20px 20px 20px 20px;
 }
 
@@ -57,5 +51,5 @@ h1 {
 }
 
 .page-section {
-	margin-bottom: 40px;
+	padding-top: 40px;
 }
