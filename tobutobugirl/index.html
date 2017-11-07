@@ -7,118 +7,140 @@
 		<title>Tobu Tobu Girl</title>
 
 		<!-- Bootstrap -->
-    	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-		<!-- <link href="https://fonts.googleapis.com/css?family=Leckerli+One" rel="stylesheet">  -->
+		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link href="https://fonts.googleapis.com/css?family=Patrick+Hand" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 		<link href="css/style.css" rel="stylesheet">
 
 		<script src="js/jquery-3.2.1.slim.min.js"></script>
 		<script src="js/popper-utils.min.js></script>
     	<script src="js/bootstrap.bundle.min.js"></script>
-		<script>
-			function initScroll() {
-				(function () {
-					var body = document.body,
-					e = document.documentElement,
-					scrollPercent;
-					$(window).unbind("scroll").scroll(function () {
-						scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height());
-						body.style.backgroundPosition = "0px " + scrollPercent + "%";
-					});
-				})();
-			}
-		</script>
 	</head>
-	<body onLoad="initScroll()">
+	<body>
 		<div class="container">
-			<img src="img/header_white.png" class="top-logo img-fluid center-block" alt="Tobu Tobu Girl logo">
+			<div class="page-section">
+				<div class="row justify-content-lg-center">
+					<div class="col-lg-8">
+						<img src="img/header_white.png" class="top-logo img-fluid mx-auto d-block" alt="Tobu Tobu Girl logo">
 
-			<img src="img/ttg_cover_cat_girl.png" class="cat-girl-header img-fluid center-block" alt="Girl and cat floating in the air">
+						<img src="img/ttg_cover_cat_girl.png" class="cat-girl-header img-fluid mx-auto d-block" alt="Girl and cat floating in the air">
 
-			<div class="intro-text">
-				<p>Your cat is floating into the atmosphere and you are the only one who can save it. Jump, dash, and bask your arms to maneuver around perilous obstacles racing against the clock to retrieve your pet friend before it is to late!</p>
+						<div class="embed-responsive embed-responsive-16by9">
+							<iframe src="https://www.youtube.com/embed/mxENfVnmIuI" frameborder="0" allowfullscreen="">
+							</iframe>
+						</div>
 
-				<p>Tobu Tobu Girl is a fun and challenging arcade platformer developed by Tangram Games. Tobu Tobu Girl is scheduled to release for the Nintendo Game Boy on MONTH DAY YEAR.</p>
+						<div class="intro-text">
+							<p>Your cat is floating into the atmosphere and you are the only one who can save it. Jump, dash, and bask your arms to maneuver around perilous obstacles racing against the clock to retrieve your pet friend before it is to late!</p>
+
+							<p>Tobu Tobu Girl is a fun and challenging arcade platformer developed by Tangram Games. Tobu Tobu Girl is scheduled to release for the Nintendo Game Boy on MONTH DAY YEAR.</p>
+						</div>
+					</div>
+				</div>
 			</div>
-
-			<div class="embed-responsive embed-responsive-16by9">
-				<iframe src="https://www.youtube.com/embed/mxENfVnmIuI" frameborder="0" allowfullscreen="">
-				</iframe>
-			</div>
-
-			<h1>About</h1>
 
 			<div class="page-section">
-				<div class="row">
-					<div class="col-sm-7 align-self-center">
-						<p>Land on enemies to bounce off of their heads gaining height. Be careful! Some enemies are less susceptible to bouncing than others.</p>
+				<div class="row justify-content-sm-center">
+					<div class="col-sm-2 d-none d-sm-block"><img src="img/bird_left.gif" class="img-fluid"></div>
+					<div class="col-sm-8 align-self-center">
+						<h1>About</h1>
 					</div>
-					<div class="col-sm-5 box-ingame">
-						<img src="img/screen1.png" class="img-fluid">
+					<div class="col-sm-2 d-none d-sm-block"><img src="img/bird_right.gif" class="img-fluid"></div>
+				</div>
+				<div class="row justify-content-md-center">
+					<div class="col-lg-8">
+						<div class="row">
+							<div class="col-md-7 align-self-center">
+								<p>Land on enemies to bounce off of their heads gaining height. Be careful! Some enemies are less susceptible to bouncing than others.</p>
+							</div>
+							<div class="col-md-5 box-ingame">
+								<img src="img/screen1.png" class="img-fluid img-thumbnail">
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-md-7 align-self-center">
+								<p>Use your dash to quickly maneuver around. Keep your dash count in mind. You can only dash three times. Land on an enemy to regain dashes.</p>
+							</div>
+							<div class="col-md-5 order-md-first box-ingame">
+								<img src="img/screen2.png" class="img-fluid img-thumbnail">
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-md-7 align-self-center">
+								<p>Flap your arms to quickly travel upwards. Be careful! You can only boost for so long before running out of energy.</p>
+							</div>
+							<div class="col-md-5 box-ingame">
+								<img src="img/screen3.png" class="img-fluid img-thumbnail">
+							</div>
+						</div>
+
+						<div class="row">
+							<div class="col-md-7 align-self-center">
+								<p>Dash down into enemies to propel yourself upwards while sending them crashing towards the ground. Do this to regain some of your boosting energy.</p>
+							</div>
+							<div class="col-md-5 order-md-first box-ingame">
+								<img src="img/screen4.png" class="img-fluid img-thumbnail">
+							</div>
+						</div>
 					</div>
 				</div>
 
-				<div class="row">
-					<div class="col-sm-7 align-self-center">
-						<p>Use your dash to quickly maneuver around. Keep your dash count in mind. You can only dash three times. Land on an enemy to regain dashes.</p>
+				<div class="row justify-content-sm-center">
+					<div class="col-sm-2 d-none d-sm-block"><img src="img/bat.gif" class="img-fluid"></div>
+					<div class="col-sm-8 align-self-center">
+						<h1>Physical release</h1>
 					</div>
-					<div class="col-sm-5 order-sm-first box-ingame">
-						<img src="img/screen2.png" class="img-fluid">
-					</div>
+					<div class="col-sm-2 d-none d-sm-block"><img src="img/bat.gif" class="img-fluid"></div>
 				</div>
 
-				<div class="row">
-					<div class="col-sm-7 align-self-center">
-						<p>Flap your arms to quickly travel upwards. Be careful! You can only boost for so long before running out of energy.</p>
-					</div>
-					<div class="col-sm-5 box-ingame">
-						<img src="img/screen3.png" class="img-fluid">
-					</div>
-				</div>
+				<div class="row justify-content-center">
+					<div class="col-lg-8">
+						<p>Something something physical release something complete in box with full color manual. Limited stock of X copies etc.</p>
 
-				<div class="row">
-					<div class="col-sm-7 align-self-center">
-						<p>Dash down into enemies to propel yourself upwards while sending them crashing towards the ground. Do this to regain some of your boosting energy.</p>
-					</div>
-					<div class="col-sm-5 order-sm-first box-ingame">
-						<img src="img/screen4.png" class="img-fluid">
+						<div class="row">
+							<div class="col-md-4">
+								<a href="img/physical_package.jpg">
+									<img src="img/physical_package_thumb.jpg" class="img-fluid img-thumbnail mx-auto d-block">
+								</a>
+							</div>
+							<div class="col-md-4">
+								<a href="img/physical_box.jpg">
+									<img src="img/physical_box_thumb.jpg" class="img-fluid img-thumbnail mx-auto d-block">
+								</a>
+							</div>
+							<div class="col-md-4">
+								<a href="img/physical_manual.jpg">
+									<img src="img/physical_manual_thumb.jpg" class="img-fluid img-thumbnail mx-auto d-block">
+								</a>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
-
-			<h1>Physical release</h1>
 
 			<div class="page-section">
-				<p>Something something physical release something complete in box with full color manual. Limited stock of X copies etc.</p>
+				<div class="row justify-content-sm-center section-heading">
+					<div class="col-sm-2 d-none d-sm-block"><img src="img/ghost_left.gif" class="img-fluid"></div>
+					<div class="col-sm-8 align-self-center">
+						<h1>Download</h1>
+					</div>
+					<div class="col-sm-2 d-none d-sm-block"><img src="img/ghost_right.gif" class="img-fluid"></div>
+				</div>
 
-				<div class="row">
-					<div class="col-sm-4">
-						<a href="img/physical_package.png">
-							<img src="img/physical_package_thumb.png" class="img-fluid thumbnail">
-						</a>
-					</div>
-					<div class="col-sm-4">
-						<a href="img/physical_box.png">
-							<img src="img/physical_box_thumb.png" class="img-fluid thumbnail">
-						</a>
-					</div>
-					<div class="col-sm-4">
-						<a href="img/physical_manual.png">
-							<img src="img/physical_manual_thumb.png" class="img-fluid thumbnail">
-						</a>
+				<div class="row justify-content-center">
+					<div class="col-lg-8">
+						<p>You can download Tobu Tobu Girl for free below. You will need a Game Boy emulator in order to play the game.</p>
+
+						<iframe frameborder="0" src="https://itch.io/embed/522?linkback=true" width="552" height="167"></iframe>
+
+						<p>Tobu Tobu Girl is free and open source software released under the  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License</a>. The full source code is available on <a href="https://github.com/SimonLarsen/tobutobugirl">GitHub</a>.</p>
 					</div>
 				</div>
 			</div>
 
-			<h1>Download</h1>
-
-			<p>You can download Tobu Tobu Girl for free below. You will need a Game Boy emulator in order to play the game.
-
-			<div class="page-section">
-				<iframe frameborder="0" src="https://itch.io/embed/522?linkback=true" width="552" height="167"></iframe>
-			</div>
-
-			<p>Tobu Tobu Girl is free and open source software released under the  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License</a>. The full source code is available on <a href="https://github.com/SimonLarsen/tobutobugirl">GitHub</a>.</p>
+			<img src="img/waving.gif" class="img-fluid mx-auto d-block bottom-image">
 		</div>
 
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
