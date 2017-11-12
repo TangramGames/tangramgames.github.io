@@ -7,6 +7,10 @@ title: Press
 
 Coming soon!
 
+### Individual games ###
+
+* [Tobu Tobu Girl](/tobutobugirl/press)
+
 ## Video/stream monetization ##
 
 We love seeing you guys play our games and consider it very valuable feedback and encouragement.

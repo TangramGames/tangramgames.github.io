@@ -1,8 +1,8 @@
-- name: Rakshasa
-  id: rakshasa
-  status: indev
 - name: Tobu Tobu Girl
   id: tobutobugirl
+  status: released
+- name: Rakshasa
+  id: rakshasa
   status: indev
 - name: "90 Second Portraits"
   id: 90secondportraits
