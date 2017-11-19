@@ -29,7 +29,7 @@ images:
 
 ## Description ##
 
-Your cat is floating into the atmosphere and you are the only one who can save it. Jump, dash, and flap your arms to maneuver around perilous obstacles racing against the clock to retrieve your pet friend before it is to late!
+Your cat is floating into the atmosphere and you are the only one who can save it. Jump, dash, and flap your arms to maneuver around perilous obstacles racing against the clock to retrieve your pet friend before it is too late!
 
 Tobu Tobu Girl is an arcade platformer for the Nintendo Game Boy.
 The game is a hectic and fast-paced platformer with a heavy emphasis on speed and twitch movement.
