@@ -81,6 +81,11 @@ h1 {
 	border-radius: 1rem;
 }
 
-.bottom-image {
-	margin-top: 200px;
+.page-footer {
+	text-align: center;
+	margin-top: 100px;
+}
+
+.btn-game-download {
+	margin: 3px 3px 3px 3px;
 }
