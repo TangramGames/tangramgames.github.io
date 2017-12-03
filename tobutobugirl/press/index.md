@@ -84,7 +84,9 @@ potato-tan
 **Twitter**<br>
 <a href="https://twitter.com/TangramGames">@TangramGames</a>
 
-## Logo ##
+## Logos and artwork ##
 
 * [Logo (black and red, SVG)](images/logo_color.svg)
 * [Logo (white, SVG)](images/logo_white.svg)
+* [Box art front (PNG)](images/box_art_front.png)
+* [Cover image (PNG)](images/cover_image.png)
