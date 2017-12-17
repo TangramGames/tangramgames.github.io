@@ -3,7 +3,7 @@
   status: released
 - name: Rakshasa
   id: rakshasa
-  status: indev
+  status: cancelled
 - name: "90 Second Portraits"
   id: 90secondportraits
   status: released
@@ -19,6 +19,3 @@
 - name: Sienna
   id: sienna
   status: released
-- name: N.O.D.E.
-  id: node
-  status: dead
