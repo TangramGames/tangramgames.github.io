@@ -48,7 +48,7 @@ artwork:
   - Download: Free
   - Physical release:
     - Regular edition: 49€ + shipping
-    - Limited edition: 49€ + shipping
+    - Limited edition: 64€ + shipping
 
 ## Description ##
 
@@ -60,7 +60,7 @@ It features an original soundtrack by potato-tan.
 
 ## History ##
 
-Tobu Tobu Girl was originally created for the [third GBJam game jam](http://jams.gamejolt.io/gbjam3/). The initial prototype featured a more puzzle-like design. After the game jam, the game went through several iterations gradually moving towards a more action-oriented design. Early during development potato-tan joined the team to do sound design and music composition. The original, Game Boy only version was released December 3rd 2017.
+Tobu Tobu Girl was originally created for the [third GBJam game jam](http://jams.gamejolt.io/gbjam3/). The initial prototype featured a more puzzle-like design. After the game jam, the game went through several iterations gradually moving towards a more action-oriented design. Early during development potato-tan joined the team to do sound design and music composition. The original, Game Boy-only version was released December 3rd 2017.
 
 In 2018, First Press Games reached out to Tangram Games and proposed a cooperation on a larger physical run with a further improved game, inspired by the popular Deluxe remakes for Game Boy Color® from the late 90s. After some initial planning, the concept began to materialize in the course of the same year.
 On April 4 2019 a Kickstarter campaign was launched in order to gather funding for a physical release. The campaign is scheduled to end on May 4.
