@@ -9,3 +9,8 @@ div .content {
 div .game-header {
 	margin-bottom: 15px;
 }
+
+.checkered-bg {
+    background-image: url("../img/checkered.png");
+    background-repeat: repeat;
+}

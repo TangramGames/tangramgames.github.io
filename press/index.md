@@ -3,13 +3,10 @@ layout: page
 title: Press
 ---
 
-## Press kit ##
-
-Coming soon!
-
-### Individual games ###
+## Press kits ##
 
 * [Tobu Tobu Girl](/tobutobugirl/press)
+* [Tobu Tobu Girl Deluxe](/tobutobugirldx/press)
 
 ## Video/stream monetization ##
 
