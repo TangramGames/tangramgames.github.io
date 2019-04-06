@@ -3,8 +3,6 @@ layout: page
 title: Tobu Tobu Girl Deluxe
 images:
  - screens/title.png
- - screens/menu1.png
- - screens/menu2.png
  - screens/plains1.png
  - screens/plains2.png
  - screens/clouds1.png
