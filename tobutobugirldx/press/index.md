@@ -107,9 +107,11 @@ Note: The game is currently in development and these images may not fully repres
 ## Logos and artwork ##
 
 {% for image in page.artwork %}
-<div class="well">
+<div class="thumbnail">
+    <div class="caption">
+        <a href="{{ image.path }}">{{ image.name }}</a>
+    </div>
     <a href="{{ image.path }}">
-        {{ image.name }}
         <img class="img-responsive checkered-bg" src="{{ image.path }}" alt="{{ image.name }}">
     </a>
 </div>
@@ -121,6 +123,8 @@ Note: The game is currently in development and these images may not fully repres
     <iframe width="660" height="372" src="https://www.kickstarter.com/projects/firstpressgames/tobu-tobu-girl-deluxe-for-gb-gbc/widget/video.html" frameborder="0" scrolling="no">
     </iframe>
 </div>
+
+[Kickstarter embedding options](https://www.kickstarter.com/projects/firstpressgames/tobu-tobu-girl-deluxe-for-gb-gbc/widget)
 
 ## Credits ##
 
