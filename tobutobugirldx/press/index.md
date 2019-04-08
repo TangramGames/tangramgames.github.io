@@ -1,16 +1,21 @@
 ---
-layout: page
+layout: wide
 title: Tobu Tobu Girl Deluxe
+contents:
+ - 
 images:
  - screens/title.png
+ - screens/intro.png
+ - screens/menu1.png
  - screens/plains1.png
- - screens/plains2.png
- - screens/clouds1.png
+ - screens/plains3.png
  - screens/clouds2.png
+ - screens/clouds3.png
  - screens/space1.png
- - screens/space2.png
+ - screens/space3.png
  - screens/dream1.png
  - screens/dream2.png
+ - screens/scoretally.png
  - screens/rank.png
  - screens/highscores.png
  - screens/jukebox.png
@@ -18,18 +23,44 @@ images:
 artwork:
  - name: "Logo (color, SVG)"
    path: images/logo_color.svg
+ - name: "Logo (color, 2000x1150, PNG)"
+   path: images/logo_color.svg
  - name: "Logo (white, SVG)"
    path: images/logo_white.svg
- - name: "Kickstarter product design mockup"
+ - name: "Logo (white, 2000x1150, PNG)"
+   path: images/logo_white.svg
+ - name: "Kickstarter product design mockup (3507x2480, PNG)"
    path: images/kickstarter_mockup.png
+ - name: "Box art design mockup (1031x1300, PNG)"
+   path: images/boxart_mockup.png
 
 ---
-## Factsheet ##
+
+<div class="row">
+<div class="col-sm-3" markdown="1">
+
+### Contents
+
+* [Factsheet](#factsheet)
+* [Description](#description)
+* [History](#history)
+* [Screenshots](#screenshots)
+* [Kickstarter video](#kickstarter-video)
+* [Logos and artwork](#logos-and-artwork)
+* [Credits](#credits)
+* [Contact](#contact)
+
+</div>
+<div class="col-sm-9" markdown="1">
+
+<img class="img-responsive" src="/img/ttgdx_screens.jpg">
+
+## Factsheet
 
 * **Developer**: [Tangram Games](http://tangramgames.dk). With sound and music by [potato-tan](http://potatotan.com)
 * **Publisher**: [First Press Games](https://firstpressgames.com) (physical release)
 * **Release date**: Summer 2019
-* **Platforms**: Nintendo Game Boy
+* **Platforms**: Nintendo Game Boy and Game Boy Color
 * **Distribution**:
   - Physical edition published by First Press Games
   - ROM download on itch.io
@@ -73,6 +104,17 @@ Note: The game is currently in development and these images may not fully repres
 	{% endfor %}
 </div>
 
+## Logos and artwork ##
+
+{% for image in page.artwork %}
+<div class="well">
+    <a href="{{ image.path }}">
+        {{ image.name }}
+        <img class="img-responsive checkered-bg" src="{{ image.path }}" alt="{{ image.name }}">
+    </a>
+</div>
+{% endfor %}
+
 ## Kickstarter video ##
 
 <div class="embed-responsive embed-responsive-16by9">
@@ -91,7 +133,7 @@ Lukas Erritsø Hansen
 
 **Box and manual artwork**<br>
 Lukas Erritsø Hansen<br>
-[Credits for new design]
+chiro
 
 **Programming**<br>
 Simon Jonas Larsen
@@ -104,7 +146,7 @@ potato-tan
 ### Developers
 
 **E-mail**<br>
-<a href="mailto:&#119;&#101;&#097;&#114;&#101;&#116;&#097;&#110;&#103;&#114;&#097;&#109;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">wearetangram@gmail.com</a>
+<a href='&#109;a&#105;lto&#58;&#37;77&#101;a&#114;et&#37;6&#49;ngram&#64;gm%61il&#46;&#99;%6Fm'>w&#101;aretangram&#64;gmail&#46;co&#109;</a>
 
 **Twitter**<br>
 <a href="https://twitter.com/TangramGames">@TangramGames</a><br>
@@ -115,18 +157,11 @@ potato-tan
 ### Publisher
 
 **E-mail**<br>
-[FPG email here?]
+<a href='m&#97;ilt&#111;&#58;k%69c%6&#66;s%&#55;&#52;&#37;6&#49;rt%&#54;&#53;r&#64;fi&#114;s&#116;pr%&#54;5ssgames&#46;com'>kickstart&#101;r&#64;fir&#115;tp&#114;essga&#109;es&#46;co&#109;</a>
 
 **Twitter**<br>
 <a href="https://twitter.com/firstpressgames">@firstpressgames</a>
 
-## Logos and artwork ##
-
-{% for image in page.artwork %}
-<div class="well">
-    <a href="{{ image.path }}">
-        {{ image.name }}
-        <img class="img-responsive checkered-bg" src="{{ image.path }}" alt="{{ image.name }}">
-    </a>
 </div>
-{% endfor %}
+</div>
+
