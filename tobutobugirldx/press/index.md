@@ -7,10 +7,8 @@ images:
  - screens/plains2.png
  - screens/clouds1.png
  - screens/clouds2.png
- - screens/clouds3.png
  - screens/space1.png
  - screens/space2.png
- - screens/space3.png
  - screens/dream1.png
  - screens/dream2.png
  - screens/rank.png
@@ -24,10 +22,6 @@ artwork:
    path: images/logo_white.svg
  - name: "Kickstarter product design mockup"
    path: images/kickstarter_mockup.png
- - name: "Box art front (PNG)"
-   path: images/box_art_front.png
- - name: "Cover image (PNG)"
-   path: images/cover_image.png
 
 ---
 ## Factsheet ##

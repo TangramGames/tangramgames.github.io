@@ -1,3 +1,6 @@
+- name: Tobu Tobu Girl Deluxe
+  id: tobutobugirldx
+  status: indev
 - name: Tobu Tobu Girl
   id: tobutobugirl
   status: released
