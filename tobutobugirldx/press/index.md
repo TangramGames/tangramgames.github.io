@@ -20,6 +20,8 @@ images:
  - screens/highscores.png
  - screens/jukebox.png
  - screens/pause.png
+ - screens/photo1.jpg
+ - screens/photo2.jpg
 artwork:
  - name: "Logo (color, SVG)"
    path: images/logo_color.svg
@@ -124,7 +126,11 @@ Note: The game is currently in development and these images may not fully repres
     </iframe>
 </div>
 
-[Kickstarter embedding options](https://www.kickstarter.com/projects/firstpressgames/tobu-tobu-girl-deluxe-for-gb-gbc/widget)
+<div class="text-center" style="margin-top: 5px;">
+    <a class="btn btn-primary btn-sm" href="https://www.kickstarter.com/projects/firstpressgames/tobu-tobu-girl-deluxe-for-gb-gbc/widget">
+        Kickstarter embedding options
+    </a>
+</div>
 
 ## Credits ##
 
