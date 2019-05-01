@@ -69,7 +69,7 @@ Colorization on the Super Game Boy is quite limited compared to what is possible
 
 We have also been pondering the possibility of adding an “infinite” game mode. Due to the arcadey nature of the game it is, in its current state, a rather short one, inviting the player to strive for the coveted S-rank through multiple playthroughs. We would like for this extra game mode to provide a extra challenge for those who have already mastered the game, while also providing a new experience for those who would rather overcome new challenges than to strive for that one perfect score.
 
-Due to the infinite nature of this game mode we want the background images to change as you progress progress, while adhering to a coherent theme. Following are some mockups of backgrounds.
+Due to the infinite nature of this game mode we want the background images to change as you progress, while adhering to a coherent theme. Following are some mockups of backgrounds.
 
 <div class="row">
 {% for img in page.infbgs %}
