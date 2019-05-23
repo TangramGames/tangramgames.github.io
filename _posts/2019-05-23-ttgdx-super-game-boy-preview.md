@@ -28,7 +28,7 @@ The following pictures show the game running on a CRT TV.
 {% endfor %}
 </div>
 
-The colorization options are pretty limited on the Super Game Boy compared to the Game Boy Color. As such we had to keep the entirety of the play “field” of the screen one palette.
+The colorization options are pretty limited on the Super Game Boy compared to the Game Boy Color. As such, we had to keep the entirety of the playing field of the screen one palette.
 We decided on a pretty bold palette, focusing on stronger contrasting colors instead of a blander 1-hue palette. 
 
 <div class="row">
@@ -41,7 +41,8 @@ We decided on a pretty bold palette, focusing on stronger contrasting colors ins
 {% endfor %}
 </div>
 
-We are still tweaking some of the color choices to make sure everyting looks nice on different TVs, but overall the final release should look more or less as presented here.
+The dominant hues we chose were blue, purple and pink. We decided on these colors because they suited the cute and light-hearted tone of the game, while also invoking the feeling of a sunset or a deep night sky.
+For the intro cutscene and the banners on the main menu, we went with a reddish-brown palette to emulate the look of an aging photograph.
 
 <div class="row">
 {% for img in page.photos3 %}
@@ -53,7 +54,9 @@ We are still tweaking some of the color choices to make sure everyting looks nic
 {% endfor %}
 </div>
 
-And here are two small videos showing the game in motion running on an LCD TV.
+We are still tweaking some of the color choices to make sure everyting looks nice on different TVs, but overall you can expect the final release to look more or less as presented here.
+
+Here are also two short videos showing the game in motion running on an LCD TV.
 
 <div class="embed-responsive embed-responsive-4by3" style="margin-bottom: 24px;">
 <iframe width="500" height="500" src="https://www.youtube.com/embed/1tJAZ1sO1zQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
