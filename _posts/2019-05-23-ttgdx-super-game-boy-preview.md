@@ -4,14 +4,14 @@ title: Tobu Tobu Girl Super Game Boy preview
 author: Tangram Games
 twitter: TangramGames
 photos1:
- - /img/ttgdxsgb/title.jpg
- - /img/ttgdxsgb/intro.jpg
+ - /img/ttgdxsgb/title
+ - /img/ttgdxsgb/intro
 photos2:
- - /img/ttgdxsgb/level.jpg
- - /img/ttgdxsgb/level2.jpg
+ - /img/ttgdxsgb/level
+ - /img/ttgdxsgb/level2
 photos3:
- - /img/ttgdxsgb/jukebox.jpg
- - /img/ttgdxsgb/pause.jpg
+ - /img/ttgdxsgb/jukebox
+ - /img/ttgdxsgb/pause
 ---
 Hi everyone! We have been quite busy lately working on Super Game Boy Support and the new infinite game mode for Tobu Tobu Girl Deluxe.
 
@@ -21,8 +21,8 @@ The following pictures show the game running on a CRT TV.
 <div class="row">
 {% for img in page.photos1 %}
 <div class="col-xs-6">
-<a href="{{ img }}">
-<img src="{{ img }}" class="img-responsive thumbnail">
+<a href="{{ img }}.jpg">
+<img src="{{ img }}_thumb.jpg" class="img-responsive thumbnail">
 </a>
 </div>
 {% endfor %}
@@ -34,8 +34,8 @@ We decided on a pretty bold palette, focusing on stronger contrasting colors ins
 <div class="row">
 {% for img in page.photos2 %}
 <div class="col-xs-6">
-<a href="{{ img }}">
-<img src="{{ img }}" class="img-responsive thumbnail">
+<a href="{{ img }}.jpg">
+<img src="{{ img }}_thumb.jpg" class="img-responsive thumbnail">
 </a>
 </div>
 {% endfor %}
@@ -47,8 +47,8 @@ For the intro cutscene and the banners on the main menu, we went with a reddish-
 <div class="row">
 {% for img in page.photos3 %}
 <div class="col-xs-6">
-<a href="{{ img }}">
-<img src="{{ img }}" class="img-responsive thumbnail">
+<a href="{{ img }}.jpg">
+<img src="{{ img }}_thumb.jpg" class="img-responsive thumbnail">
 </a>
 </div>
 {% endfor %}
