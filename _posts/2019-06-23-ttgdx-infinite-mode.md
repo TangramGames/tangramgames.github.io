@@ -12,7 +12,7 @@ gifs2:
 ---
 Hi everyone! We're back with a short update providing some details on the new infinite game mode we've been working on for Tobu Tobu Girl Deluxe. Once again thank you to everyone who supported the crowdfunding campaign, helping us reach this exciting stretch goal.
 
-When designing this level, we wanted the goal to be clear and simple: getting as far as possible in a single run without dying. Unlike previous levels, the player is not scored on time or number of stumped stumped enemies - all that matters is getting far.
+When designing this level, we wanted the goal to be clear and simple: getting as far as possible in a single run without dying. Unlike previous levels, the player is not scored on time or number of stomped enemies - all that matters is getting far.
 We decided to split the level into many small sections called "waves". This way, players have a clear sense of progress, while also getting a chance to catch their breath once in a while.
 
 <div class="row">
@@ -40,7 +40,7 @@ Once in a while, the player will encounter a "special" wave. These waves have a 
 </div>
 
 potato-tan has also been hard at work composing a new song for the level. Since this new level can potentially be played indefinitely, potato wanted the song to be longer and more varied than previous songs in the game.
-The final track ended up at almost 4 minutes long, and we can't get over just how damn good it is.
+The final track ended up at almost 4 minutes long, and we can't get over just how damn good it is!
 
 In the video below you can watch some gameplay from the new level and listen to the new song action.
 
