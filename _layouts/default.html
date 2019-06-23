@@ -5,7 +5,7 @@ layout: base
 	<div class="col-sm-9 content">
 		{{ content }}
 	</div>
-	<div class="col-sm-3">
+	<div class="hidden-xs col-sm-3">
 		{% for game in site.data.games %}
 		{% if game.status == "indev" or game.status == "released" %}
 		<a href="/games/{{ game.id }}">
