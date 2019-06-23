@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tobu Tobu Girl Deluxe infinite mode preview
+title: Tobu Tobu Girl Deluxe infinite mode
 author: Tangram Games
 twitter: TangramGames
 gifs1:
