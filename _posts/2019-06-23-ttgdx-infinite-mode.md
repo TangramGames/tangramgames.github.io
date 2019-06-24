@@ -42,7 +42,7 @@ Once in a while, the player will encounter a "special" wave. These waves have a 
 potato-tan has also been hard at work composing a new song for the level. Since this new level can potentially be played indefinitely, potato wanted the song to be longer and more varied than previous songs in the game.
 The final track ended up at almost 4 minutes long, and we can't get over just how damn good it is!
 
-In the video below you can watch some gameplay from the new level and listen to the new song action.
+In the video below you can watch some gameplay from the new level and listen to the new song in action.
 
 <div class="embed-responsive embed-responsive-4by3" style="margin-bottom: 24px;">
 <iframe width="500" height="500" src="https://www.youtube.com/embed/8jXfpaGTk60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
