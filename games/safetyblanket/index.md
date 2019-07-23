@@ -15,8 +15,9 @@ Cover your exposed limbs to fend off the approaching tentacles.
 
 The tentacles will only go for your feet, hands and head. 
 
-If the tentacles reach you it's game over! 
-- SURVIVE TILL 7 AM 
+If the tentacles reach you it's game over!
+
+**SURVIVE TILL 7 AM**
 
 ## Screenshots ##
 
@@ -48,5 +49,6 @@ and [Ludum Dare submission page](http://www.ludumdare.com/compo/ludum-dare-29/?a
 All assets (images, sound, text) made by Tangram Games.
 Licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
-All source code with the exception of [slam.lua](https://raw.githubusercontent.com/SimonLarsen/90-Second-Portraits/master/slam.lua) made by Tangram Games.<br>
-Licensed under zlib license. See [LICENSE.txt](https://raw.githubusercontent.com/SimonLarsen/90-Second-Portraits/master/LICENSE.txt).
+All source code with the exception of [slam.lua](https://raw.githubusercontent.com/SimonLarsen/90-Second-Portraits/master/slam.lua) made by Tangram Games.
+
+Source code licensed under ZLIB license. See [LICENSE.txt](https://raw.githubusercontent.com/SimonLarsen/safetyblanket/master/LICENSE.txt).
