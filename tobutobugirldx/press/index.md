@@ -61,12 +61,12 @@ artwork:
 
 * **Developer**: [Tangram Games](http://tangramgames.dk). With sound and music by [potato-tan](http://potatotan.com)
 * **Publisher**: [First Press Games](https://firstpressgames.com) (physical release)
-* **Release date**: Summer 2019
-* **Platforms**: Nintendo Game Boy and Game Boy Color
+* **Release date**: August 2019
+* **Platforms**: Nintendo Game Boy, Game Boy Color and Super Game Boy
 * **Distribution**:
   - Physical edition published by First Press Games
-  - ROM download on itch.io
-  - Source code on GitHub.com ([MIT license](https://opensource.org/licenses/MIT))
+  - Digital download on itch.io
+  - Source code to be released on GitHub.com ([MIT license](https://opensource.org/licenses/MIT))
 * **Website**: [tangramgames.dk/tobutobugirldx](http://tangramgames.dk/tobutobugirldx)
 * **Kickstarter page**: [http://kck.st/2OPmDGl](http://kck.st/2OPmDGl)
 * **Price**:
@@ -88,7 +88,7 @@ It features an original soundtrack by potato-tan.
 Tobu Tobu Girl was originally created for the [third GBJam game jam](http://jams.gamejolt.io/gbjam3/). The initial prototype featured a more puzzle-like design. After the game jam, the game went through several iterations gradually moving towards a more action-oriented design. Early during development potato-tan joined the team to do sound design and music composition. The original, Game Boy-only version was released December 3rd 2017.
 
 In 2018, First Press Games reached out to Tangram Games and proposed a cooperation on a larger physical run with a further improved game, inspired by the popular Deluxe remakes for Game Boy Color® from the late 90s. After some initial planning, the concept began to materialize in the course of the same year.
-On April 4 2019 a Kickstarter campaign was launched in order to gather funding for a physical release. The campaign is scheduled to end on May 4.
+On April 4 2019 a [Kickstarter campaign](http://kck.st/2OPmDGl) was launched in order to gather funding for a physical release. The campaign received 132% of its €32,000 funding goal, unlocking several stretch goals including Super Game Boy support, a new infinite game mode and additional physical collectibles.
 
 ## Screenshots ##
 
@@ -138,18 +138,41 @@ Note: The game is currently in development and these images may not fully repres
 Simon Jonas Larsen<br>
 Lukas Erritsø Hansen
 
-**Game artwork**<br>
+**Game graphics**<br>
 Lukas Erritsø Hansen
-
-**Box and manual artwork**<br>
-Lukas Erritsø Hansen<br>
-chiro
-
-**Programming**<br>
-Simon Jonas Larsen
 
 **Music and sound effects**<br>
 potato-tan
+
+**Game programming**<br>
+Simon Jonas Larsen
+
+**Box, manual and cartridge artwork**<br>
+Lukas Erritsø Hansen
+
+**Production planning and control**<br>
+Lennard Haase<br>
+Slawomir "Tak" Mionskowski
+
+**Project director**<br>
+Lennard Haase<br>
+Sanae "Lida" IIDA
+
+**Executive Producer**<br>
+Slawomir "Tak" Mionskowski
+
+**Manual and cartridge layout**<br>
+PixelHans
+
+**Box layout**<br>
+chiro
+
+**Manga illustrator**<br>
+afunai
+
+**Box and manual text**<br>
+Lukas Erritsø Hansen<br>
+Simon Jonas Larsen
 
 ## Contact ##
 
