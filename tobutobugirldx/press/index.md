@@ -170,6 +170,9 @@ chiro
 **Manga illustrator**<br>
 afunai
 
+**Soundtrack illustrator**<br>
+Heireau
+
 **Box and manual text**<br>
 Lukas Erritsø Hansen<br>
 Simon Jonas Larsen
