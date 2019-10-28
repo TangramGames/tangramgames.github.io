@@ -33,8 +33,6 @@ artwork:
    path: images/logo_white.svg
  - name: "Kickstarter product design mockup (3507x2480, PNG)"
    path: images/kickstarter_mockup.png
- - name: "Box art design mockup (1031x1300, PNG)"
-   path: images/boxart_mockup.png
 
 ---
 
@@ -47,7 +45,7 @@ artwork:
 * [Description](#description)
 * [History](#history)
 * [Screenshots](#screenshots)
-* [Kickstarter video](#kickstarter-video)
+* [Videos](#videos)
 * [Logos and artwork](#logos-and-artwork)
 * [Credits](#credits)
 * [Contact](#contact)
@@ -59,15 +57,16 @@ artwork:
 
 ## Factsheet
 
-* **Developer**: [Tangram Games](http://tangramgames.dk). With sound and music by [potato-tan](http://potatotan.com)
+* **Developer**: [Tangram Games](http://tangramgames.dk); with sound and music by [potato-tan](http://potatotan.com)
 * **Publisher**: [First Press Games](https://firstpressgames.com) (physical release)
-* **Release date**: August 2019
+* **Release date**: October 28 2019
 * **Platforms**: Nintendo Game Boy, Game Boy Color and Super Game Boy
 * **Distribution**:
   - Physical edition published by First Press Games
   - Digital download on itch.io
   - Source code to be released on GitHub.com ([MIT license](https://opensource.org/licenses/MIT))
 * **Website**: [tangramgames.dk/tobutobugirldx](http://tangramgames.dk/tobutobugirldx)
+* **Itch.io page**: [tangramgames.itch.io/tobu-tobu-girl-deluxe](https://tangramgames.itch.io/tobu-tobu-girl-deluxe)
 * **Kickstarter page**: [http://kck.st/2OPmDGl](http://kck.st/2OPmDGl)
 * **Price**:
   - Download: Free
@@ -75,7 +74,7 @@ artwork:
     - Regular edition: 49€ + shipping
     - Limited edition: 64€ + shipping
 
-## Description ##
+## Description
 
 Your cat is floating into the atmosphere and you are the only one who can save it. Jump, dash, and flap your arms to maneuver around perilous obstacles racing against the clock to retrieve your pet friend before it is too late!
 
@@ -83,18 +82,14 @@ Tobu Tobu Girl Deluxe is a Game Boy/Game Boy Color full-color remaster of [Tobu 
 It is a hectic and fast-paced arcade-style platformer with a heavy emphasis on speed and twitch movement.
 It features an original soundtrack by potato-tan.
 
-## History ##
+## History
 
 Tobu Tobu Girl was originally created for the [third GBJam game jam](http://jams.gamejolt.io/gbjam3/). The initial prototype featured a more puzzle-like design. After the game jam, the game went through several iterations gradually moving towards a more action-oriented design. Early during development potato-tan joined the team to do sound design and music composition. The original, Game Boy-only version was released December 3rd 2017.
 
 In 2018, First Press Games reached out to Tangram Games and proposed a cooperation on a larger physical run with a further improved game, inspired by the popular Deluxe remakes for Game Boy Color® from the late 90s. After some initial planning, the concept began to materialize in the course of the same year.
 On April 4 2019 a [Kickstarter campaign](http://kck.st/2OPmDGl) was launched in order to gather funding for a physical release. The campaign received 132% of its €32,000 funding goal, unlocking several stretch goals including Super Game Boy support, a new infinite game mode and additional physical collectibles.
 
-## Screenshots ##
-
-<div class="alert alert-info">
-Note: The game is currently in development and these images may not fully represent the game in its finished state.
-</div>
+## Screenshots
 
 <div class="row">
 	{% for image in page.images %}
@@ -106,20 +101,16 @@ Note: The game is currently in development and these images may not fully repres
 	{% endfor %}
 </div>
 
-## Logos and artwork ##
+## Videos
 
-{% for image in page.artwork %}
-<div class="thumbnail">
-    <div class="caption">
-        <a href="{{ image.path }}">{{ image.name }}</a>
-    </div>
-    <a href="{{ image.path }}">
-        <img class="img-responsive checkered-bg" src="{{ image.path }}" alt="{{ image.name }}">
-    </a>
+### Launch trailer
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hDBBjcNk9AU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
 </div>
-{% endfor %}
 
-## Kickstarter video ##
+### Kickstarter video
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe width="660" height="372" src="https://www.kickstarter.com/projects/firstpressgames/tobu-tobu-girl-deluxe-for-gb-gbc/widget/video.html" frameborder="0" scrolling="no">
@@ -132,7 +123,20 @@ Note: The game is currently in development and these images may not fully repres
     </a>
 </div>
 
-## Credits ##
+## Logos and artwork
+
+{% for image in page.artwork %}
+<div class="thumbnail">
+    <div class="caption">
+        <a href="{{ image.path }}">{{ image.name }}</a>
+    </div>
+    <a href="{{ image.path }}">
+        <img class="img-responsive checkered-bg" src="{{ image.path }}" alt="{{ image.name }}">
+    </a>
+</div>
+{% endfor %}
+
+## Credits
 
 **Game design**:<br>
 Simon Jonas Larsen<br>
@@ -177,7 +181,7 @@ Heireau
 Lukas Erritsø Hansen<br>
 Simon Jonas Larsen
 
-## Contact ##
+## Contact
 
 ### Developers
 
