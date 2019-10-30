@@ -3,6 +3,7 @@ layout: widepage
 title: Games
 ---
 
+<!--
 ## In development
 
 <div class="row">
@@ -21,6 +22,7 @@ title: Games
     {% endif %}
     {% endfor %}
 </div>
+-->
 
 ## Released
 
